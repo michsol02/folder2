@@ -2386,17 +2386,6 @@ section.lazy-placeholder:after {
   padding-bottom: 45px;
   background-image: url("../../../assets/images/19roundtable-combo-superjumbo-2-2000x1638.png");
 }
-.cid-s1B8lvcFqJ {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #ffffff;
-}
-.cid-s1B8lvcFqJ .mbr-text {
-  color: #767676;
-}
-.cid-s1B8lvcFqJ .mbr-text p {
-  background: #ffffff;
-}
 .cid-s1B8lvXXUe {
   padding-top: 30px;
   padding-bottom: 30px;
@@ -2420,18 +2409,28 @@ section.lazy-placeholder:after {
     width: 100% !important;
   }
 }
-.cid-s1B8lwubHb {
-  padding-top: 45px;
-  padding-bottom: 30px;
+.cid-s1BH84LS4N {
+  padding-top: 90px;
+  padding-bottom: 90px;
   background-color: #ffffff;
 }
-.cid-s1B8lwubHb .mbr-section-subtitle {
+.cid-s1BH84LS4N .title {
+  margin-bottom: 2rem;
+}
+.cid-s1BH84LS4N .mbr-section-subtitle {
   color: #767676;
 }
-.cid-s1B8lwubHb H2 {
-  color: #0f7699;
+.cid-s1BH84LS4N a:not([href]):not([tabindex]) {
+  color: #fff;
+  border-radius: 3px;
 }
-.cid-s1B8lwubHb .mbr-section-subtitle DIV {
+.cid-s1BH84LS4N a.btn-white:not([href]):not([tabindex]) {
+  color: #333;
+}
+.cid-s1BH84LS4N textarea.form-control {
+  min-height: 188px;
+}
+.cid-s1BH84LS4N LABEL {
   text-align: center;
 }
 .cid-s1B8lx6acZ {
@@ -2900,17 +2899,6 @@ section.lazy-placeholder:after {
   padding-bottom: 45px;
   background-image: url("../../../assets/images/woman-in-sme-bakery-xlarge.webp");
 }
-.cid-s1B8EPXr5s {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #ffffff;
-}
-.cid-s1B8EPXr5s .mbr-text {
-  color: #767676;
-}
-.cid-s1B8EPXr5s .mbr-text p {
-  background: #ffffff;
-}
 .cid-s1B8ERusNr {
   padding-top: 30px;
   padding-bottom: 30px;
@@ -2934,83 +2922,34 @@ section.lazy-placeholder:after {
     width: 100% !important;
   }
 }
-.cid-s1B8ESsywe {
-  padding-top: 45px;
-  padding-bottom: 30px;
+.cid-s1BJ5KaOPS {
+  padding-top: 90px;
+  padding-bottom: 90px;
   background-color: #ffffff;
 }
-.cid-s1B8ESsywe .mbr-section-subtitle {
+.cid-s1BJ5KaOPS .title {
+  margin-bottom: 2rem;
+}
+.cid-s1BJ5KaOPS .mbr-section-subtitle {
   color: #767676;
 }
-.cid-s1B8ESsywe H2 {
-  color: #0f7699;
+.cid-s1BJ5KaOPS a:not([href]):not([tabindex]) {
+  color: #fff;
+  border-radius: 3px;
 }
-.cid-s1B8ESsywe .mbr-section-subtitle DIV {
+.cid-s1BJ5KaOPS a.btn-white:not([href]):not([tabindex]) {
+  color: #333;
+}
+.cid-s1BJ5KaOPS textarea.form-control {
+  min-height: 188px;
+}
+.cid-s1BJ5KaOPS LABEL {
   text-align: center;
 }
 .cid-s1B8ETxA9x {
   padding-top: 75px;
   padding-bottom: 60px;
   background-image: url("../../../assets/images/rt-selection-8-1152x768.png");
-}
-.cid-s1B8EUVL1m {
-  padding-top: 30px;
-  padding-bottom: 90px;
-  background-color: #ffffff;
-}
-.cid-s1B8EUVL1m .mbr-section-subtitle {
-  color: #767676;
-  font-weight: 300;
-}
-.cid-s1B8EUVL1m .mbr-content-text {
-  color: #767676;
-}
-.cid-s1B8EUVL1m .card {
-  word-wrap: break-word;
-  flex-shrink: 0;
-  -webkit-flex-shrink: 0;
-}
-.cid-s1B8EUVL1m .mbr-iconfont {
-  font-size: 80px;
-  color: #149dcc;
-}
-.cid-s1B8EUVL1m .cards-container {
-  display: flex;
-  -webkit-flex-direction: row;
-  flex-direction: row;
-  -webkit-flex-wrap: wrap;
-  flex-wrap: wrap;
-  -webkit-justify-content: center;
-  justify-content: center;
-  word-break: break-word;
-}
-.cid-s1B8EUVL1m .media-block {
-  flex-shrink: 0;
-  -webkit-flex-shrink: 0;
-}
-@media (min-width: 992px) {
-  .cid-s1B8EUVL1m .media-block {
-    padding-right: 2rem;
-  }
-}
-.cid-s1B8EUVL1m .cards-block {
-  flex-basis: 100%;
-  -webkit-flex-basis: 100%;
-}
-.cid-s1B8EUVL1m .card-img {
-  display: flex;
-  -webkit-align-items: center;
-  align-items: center;
-  -webkit-flex-wrap: wrap;
-  flex-wrap: wrap;
-}
-@media (max-width: 991px) {
-  .cid-s1B8EUVL1m .media-block {
-    flex-basis: 100%;
-    -webkit-flex-basis: 100%;
-    padding-left: 0;
-    padding-bottom: 2rem;
-  }
 }
 .cid-s1B8EXowTA {
   padding-top: 60px;
