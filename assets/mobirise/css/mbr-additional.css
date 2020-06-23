@@ -763,6 +763,9 @@ section.lazy-placeholder:after {
   box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
   transition: box-shadow 0.3s;
 }
+.cid-s2JbTuDpbQ .card-title {
+  text-align: center;
+}
 .cid-s1weHQuKqJ {
   padding-top: 30px;
   padding-bottom: 30px;
