@@ -2421,8 +2421,8 @@ section.lazy-placeholder:after {
   text-align: center;
 }
 .cid-s2abARb2HY {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 45px;
+  padding-bottom: 45px;
   background-color: #b2ccd2;
 }
 .cid-s2abARb2HY .mbr-section-subtitle {
@@ -2889,7 +2889,7 @@ section.lazy-placeholder:after {
 }
 .cid-s1B8EOEKin {
   padding-top: 120px;
-  padding-bottom: 45px;
+  padding-bottom: 15px;
   background-image: url("../../../assets/images/how-to-determine-your-salary-business-owner-1000x667.jpg");
 }
 .cid-s2KfhJssKm {
@@ -3467,47 +3467,52 @@ section.lazy-placeholder:after {
   padding-bottom: 45px;
   background-image: url("../../../assets/images/3500-1-1240x744.jpeg");
 }
-.cid-s1Czfh0ZZx {
+.cid-s2KnwR9Xg0 {
   padding-top: 30px;
-  padding-bottom: 90px;
+  padding-bottom: 30px;
   background-color: #ffffff;
 }
-.cid-s1Czfh0ZZx .mbr-section-subtitle {
+.cid-s2KnwR9Xg0 .mbr-section-subtitle {
   color: #767676;
-  text-align: center;
-  font-weight: 300;
 }
-.cid-s1Czfh0ZZx .step {
-  width: 64px;
-  height: 64px;
-  font-size: 32px;
-  border-radius: 50%;
-  border: 2px solid #efefef;
-}
-@media (max-width: 767px) {
-  .cid-s1Czfh0ZZx .step {
-    width: 48px;
-    height: 48px;
-    font-size: 24px;
-  }
-}
-.cid-s1Czfh0ZZx .separline {
-  position: relative;
-}
-.cid-s1Czfh0ZZx .separline:after {
-  top: 68px;
-  left: 30px;
-  position: absolute;
-  content: "";
-  width: 2px;
-  height: calc(100% - (32px + 4px) * 2);
+.cid-s2KnsEv7M0 {
+  padding-top: 45px;
+  padding-bottom: 45px;
   background-color: #efefef;
 }
-@media (max-width: 767px) {
-  .cid-s1Czfh0ZZx .separline:after {
-    top: 52px;
-    left: 22px;
-    height: calc(100% - 56px);
+.cid-s2KnsEv7M0 .card-img {
+  background-color: #fff;
+}
+.cid-s2KnsEv7M0 .card-box {
+  padding: 2rem;
+  background-color: #ffffff;
+}
+.cid-s2KnsEv7M0 h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-s2KnsEv7M0 p {
+  text-align: left;
+}
+.cid-s2KnsEv7M0 .mbr-text {
+  color: #232323;
+}
+.cid-s2KnsEv7M0 .card-wrapper {
+  height: 100%;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
+}
+.cid-s2KnsEv7M0 .card-wrapper:hover {
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s;
+}
+@media (min-width: 992px) {
+  .cid-s2KnsEv7M0 .my-col {
+    flex: 0 0 20%;
+    max-width: 20%;
+    padding: 15px;
+    -webkit-flex: 0 0 20%;
   }
 }
 .cid-s1B8HO1c4t {
@@ -3563,8 +3568,8 @@ section.lazy-placeholder:after {
   text-align: center;
 }
 .cid-s2abLrEmnD {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 60px;
+  padding-bottom: 60px;
   background-color: #b2ccd2;
 }
 .cid-s2abLrEmnD .mbr-section-subtitle {
