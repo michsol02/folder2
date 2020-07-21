@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site 1",
-    "currentPage": "UsersSuperusers.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -75,127 +75,9 @@
             }
           },
           "_name": "header2",
-          "_customHTML": "<section group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{\n         'mbr-fullscreen': fullScreen,\n         'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"8\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"1\" condition=\"fullScreen == false\">\n        <input type=\"checkbox\" title=\"Show Arrow\" name=\"showArrow\">\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubTitle\">\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/london-aerial-thames-guide.webp\" parallax selected>\n            <input type=\"color\" title=\"Background Color\" value=\"#073B4C\">\n            <input type=\"video\" title=\"Background Video\" value=\"https://www.youtube.com/watch?v=36YgDDJ7XSc\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#232323\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.5\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n    <div class=\"container align-center\">\n        <div class=\"row justify-content-md-center\">\n            <div class=\"mbr-white col-md-10\">\n                <h1 class=\"mbr-section-title mbr-bold pb-3 mbr-fonts-style\" mbr-theme-style=\"display-1\" mbr-if=\"showTitle\"><span style=\"font-weight: normal;\">TAKE RESPONSIBILITY,</span> RESCUE PROSPERITY</h1>\n                <h3 class=\"mbr-section-subtitle align-center mbr-light pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showSubTitle\">\n                    Beautiful mobile websites\n                </h3>\n                <p class=\"mbr-text pb-3 mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\"></p>\n                <div mbr-buttons mbr-theme-style=\"display-4\" class=\"mbr-section-btn\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-md btn-secondary\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSfLA4Fj25P0BePDwd8uB6VTe8TcDhC9quUWfQoJY5Rqnm3dBQ/viewform?entry.1989992238=Not%20relevant%20or%20material&entry.90115000=Not%20relevant%20or%20material&entry.994014265=Not%20relevant%20or%20material&entry.1521738973=Not%20relevant%20or%20material&entry.1014803069=Not%20relevant%20or%20material&entry.2076870950=Not%20relevant%20or%20material&entry.1574678995=Not%20relevant%20or%20material&entry.1062102507=Not%20relevant%20or%20material&entry.1585015661=Not%20relevant%20or%20material&entry.1802545029=Not%20relevant%20or%20material&entry.663423791=Not%20relevant%20or%20material&entry.933563617=Not%20relevant%20or%20material&entry.675633623=Not%20relevant%20or%20material&entry.1549858079=Not%20relevant%20or%20material&entry.1248342225=Not%20relevant%20or%20material&entry.725835280=Not%20relevant%20or%20material&entry.949846365=Not%20relevant%20or%20material&entry.1409308477=Not%20relevant%20or%20material&entry.343148658=Not%20relevant%20or%20material&entry.1946793288=Not%20relevant%20or%20material&entry.918831368=Not%20relevant%20or%20material&entry.1558640961=Not%20relevant%20or%20material&entry.299918694=Not%20relevant%20or%20material&entry.59570611=Not%20relevant%20or%20material&entry.1123715176=Not%20relevant%20or%20material&entry.322573857=Not%20relevant%20or%20material&entry.1872424361=Not%20relevant%20or%20material&entry.1561334141=Not%20relevant%20or%20material&entry.1154818720=Not%20relevant%20or%20material&entry.431037819=Not%20relevant%20or%20material&entry.964156776=Not%20relevant%20or%20material&entry.1735933762=Not%20relevant%20or%20material&entry.270535709=Not%20relevant%20or%20material&entry.1637034147=Not%20relevant%20or%20material&entry.1763836349=Not%20relevant%20or%20material&entry.943011600=Not%20relevant%20or%20material&entry.313536270=Not%20relevant%20or%20material&entry.1166773240=Not%20relevant%20or%20material&entry.831936071=Not%20relevant%20or%20material&entry.72361584=Not%20relevant%20or%20material&entry.1457050679=Not%20relevant%20or%20material&entry.1335763106=Not%20relevant%20or%20material&entry.1804612844=Not%20relevant%20or%20material&entry.1982916791=Not%20relevant%20or%20material&entry.1272839902=Not%20relevant%20or%20material&entry.1161901734=Not%20relevant%20or%20material&entry.2070665894=Not%20relevant%20or%20material&entry.1607234097=Not%20relevant%20or%20material&entry.1291430813=Not%20relevant%20or%20material&entry.2093904975=Not%20relevant%20or%20material&entry.1325867948=Not%20relevant%20or%20material&entry.14616319=Not%20relevant%20or%20material&entry.1927398321=Not%20relevant%20or%20material&entry.582656468=Not%20relevant%20or%20material&entry.1808165949=Not%20relevant%20or%20material&entry.620756333=Not%20relevant%20or%20material&entry.1208457754=Not%20relevant%20or%20material&entry.1425374567=Not%20relevant%20or%20material\" data-app-placeholder=\"Type Text\" target=\"_blank\">Join Responsible 100</a></div>\n            </div>\n        </div>\n    </div>\n    <div mbr-if=\"showArrow\" class=\"mbr-arrow hidden-sm-down\" aria-hidden=\"true\">\n        <a href=\"#next\">\n            <i class=\"mbri-down mbr-iconfont\"></i>\n        </a>\n    </div>\n</section>",
+          "_customHTML": "<section group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{\n         'mbr-fullscreen': fullScreen,\n         'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"8\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"1\" condition=\"fullScreen == false\">\n        <input type=\"checkbox\" title=\"Show Arrow\" name=\"showArrow\">\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubTitle\">\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/london-aerial-thames-guide.webp\" parallax selected>\n            <input type=\"color\" title=\"Background Color\" value=\"#073B4C\">\n            <input type=\"video\" title=\"Background Video\" value=\"https://www.youtube.com/watch?v=36YgDDJ7XSc\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#232323\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.5\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n    <div class=\"container align-center\">\n        <div class=\"row justify-content-md-center\">\n            <div class=\"mbr-white col-md-10\">\n                <h1 class=\"mbr-section-title mbr-bold pb-3 mbr-fonts-style\" mbr-theme-style=\"display-1\" mbr-if=\"showTitle\"><span style=\"font-weight: normal;\">TAKE RESPONSIBILITY,</span> RESCUE PROSPERITY<br><span style=\"font-weight: normal;\">YADDA&nbsp;</span><br><span style=\"font-weight: normal;\">YADDA&nbsp;</span><br><span style=\"font-weight: normal;\">YADDA&nbsp;</span></h1>\n                <h3 class=\"mbr-section-subtitle align-center mbr-light pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showSubTitle\">\n                    Beautiful mobile websites\n                </h3>\n                <p class=\"mbr-text pb-3 mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\"></p>\n                <div mbr-buttons mbr-theme-style=\"display-4\" class=\"mbr-section-btn\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-md btn-secondary\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSfLA4Fj25P0BePDwd8uB6VTe8TcDhC9quUWfQoJY5Rqnm3dBQ/viewform?entry.1989992238=Not%20relevant%20or%20material&entry.90115000=Not%20relevant%20or%20material&entry.994014265=Not%20relevant%20or%20material&entry.1521738973=Not%20relevant%20or%20material&entry.1014803069=Not%20relevant%20or%20material&entry.2076870950=Not%20relevant%20or%20material&entry.1574678995=Not%20relevant%20or%20material&entry.1062102507=Not%20relevant%20or%20material&entry.1585015661=Not%20relevant%20or%20material&entry.1802545029=Not%20relevant%20or%20material&entry.663423791=Not%20relevant%20or%20material&entry.933563617=Not%20relevant%20or%20material&entry.675633623=Not%20relevant%20or%20material&entry.1549858079=Not%20relevant%20or%20material&entry.1248342225=Not%20relevant%20or%20material&entry.725835280=Not%20relevant%20or%20material&entry.949846365=Not%20relevant%20or%20material&entry.1409308477=Not%20relevant%20or%20material&entry.343148658=Not%20relevant%20or%20material&entry.1946793288=Not%20relevant%20or%20material&entry.918831368=Not%20relevant%20or%20material&entry.1558640961=Not%20relevant%20or%20material&entry.299918694=Not%20relevant%20or%20material&entry.59570611=Not%20relevant%20or%20material&entry.1123715176=Not%20relevant%20or%20material&entry.322573857=Not%20relevant%20or%20material&entry.1872424361=Not%20relevant%20or%20material&entry.1561334141=Not%20relevant%20or%20material&entry.1154818720=Not%20relevant%20or%20material&entry.431037819=Not%20relevant%20or%20material&entry.964156776=Not%20relevant%20or%20material&entry.1735933762=Not%20relevant%20or%20material&entry.270535709=Not%20relevant%20or%20material&entry.1637034147=Not%20relevant%20or%20material&entry.1763836349=Not%20relevant%20or%20material&entry.943011600=Not%20relevant%20or%20material&entry.313536270=Not%20relevant%20or%20material&entry.1166773240=Not%20relevant%20or%20material&entry.831936071=Not%20relevant%20or%20material&entry.72361584=Not%20relevant%20or%20material&entry.1457050679=Not%20relevant%20or%20material&entry.1335763106=Not%20relevant%20or%20material&entry.1804612844=Not%20relevant%20or%20material&entry.1982916791=Not%20relevant%20or%20material&entry.1272839902=Not%20relevant%20or%20material&entry.1161901734=Not%20relevant%20or%20material&entry.2070665894=Not%20relevant%20or%20material&entry.1607234097=Not%20relevant%20or%20material&entry.1291430813=Not%20relevant%20or%20material&entry.2093904975=Not%20relevant%20or%20material&entry.1325867948=Not%20relevant%20or%20material&entry.14616319=Not%20relevant%20or%20material&entry.1927398321=Not%20relevant%20or%20material&entry.582656468=Not%20relevant%20or%20material&entry.1808165949=Not%20relevant%20or%20material&entry.620756333=Not%20relevant%20or%20material&entry.1208457754=Not%20relevant%20or%20material&entry.1425374567=Not%20relevant%20or%20material\" data-app-placeholder=\"Type Text\" target=\"_blank\">Join Responsible 100</a></div>\n            </div>\n        </div>\n    </div>\n    <div mbr-if=\"showArrow\" class=\"mbr-arrow hidden-sm-down\" aria-hidden=\"true\">\n        <a href=\"#next\">\n            <i class=\"mbri-down mbr-iconfont\"></i>\n        </a>\n    </div>\n</section>",
           "_cid": "qTkA127IK8",
           "_anchor": "header2-1",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
-        },
-        {
-          "alias": false,
-          "_styles": {
-            "padding-top": "(@paddingTop * 15px)",
-            "padding-bottom": "(@paddingBottom * 15px)",
-            "background-color": "@bgColor",
-            ".line": {
-              "background-color": "@lineColor",
-              "color": "@lineColor",
-              "align": "center",
-              "height": "2px",
-              "margin": "0 auto"
-            },
-            ".section-text": {
-              "padding": "2rem 0"
-            },
-            ".inner-container": {
-              "margin": "0 auto"
-            },
-            "@media (max-width: 768px)": {
-              ".inner-container": {
-                "width": "100% !important"
-              }
-            }
-          },
-          "_name": "content10",
-          "_customHTML": "<section class=\"mbr-section article content10\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"10\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#2e2e2e\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-white mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".section-text\" mbr-text><i>\n                    \"Responsible 100 has enabled us to identify our current strengths and weaknesses on a crucial range of social and environmental issues, and map paths for constant improvement.</i><i style=\"font-size: 1.5rem;\">\"</i><div><div><i><b>\n</b></i></div><div><b>Head of Corporate Responsibility &amp; Ethics, Legal &amp; General</b>\n                </div></div></div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n    </div>\n</section>",
-          "_anchor": "content10-19",
-          "_isUserblock": true,
-          "_sourceTheme": "mobirise4",
-          "_cid": "s1weHQuKqJ",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
-        },
-        {
-          "alias": false,
-          "_styles": {
-            "padding-top": "(@paddingTop * 15px)",
-            "padding-bottom": "(@paddingBottom * 15px)",
-            "& when (@bg-type = 'color')": {
-              "background-color": "@bg-value"
-            },
-            "& when (@bg-type = 'image')": {
-              "background-image": "url(@bg-value)"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#767676",
-              "font-weight": "300"
-            },
-            ".mbr-content-text": {
-              "color": "#767676"
-            },
-            ".card": {
-              "word-wrap": "break-word",
-              "flex-shrink": "0",
-              "-webkit-flex-shrink": "0"
-            },
-            ".mbr-iconfont": {
-              "font-size": "80px",
-              "color": "#149dcc"
-            },
-            ".cards-container": {
-              "display": "flex",
-              "-webkit-flex-direction": "row",
-              "flex-direction": "row",
-              "-webkit-flex-wrap": "wrap",
-              "flex-wrap": "wrap",
-              "-webkit-justify-content": "center",
-              "justify-content": "center",
-              "word-break": "break-word"
-            },
-            ".media-block when (@showTitle), (@showSubtitle), (@showMedia)": {
-              "flex-shrink": "0",
-              "-webkit-flex-shrink": "0",
-              "@media (min-width: 992px)": {
-                "& when not (@reverseContent)": {
-                  "padding-right": "2rem"
-                },
-                "& when (@reverseContent)": {
-                  "padding-left": "2rem"
-                }
-              }
-            },
-            ".cards-block": {
-              "flex-basis": "100%",
-              "-webkit-flex-basis": "100%"
-            },
-            ".card-img": {
-              "display": "flex",
-              "-webkit-align-items": "center",
-              "align-items": "center",
-              "-webkit-flex-wrap": "wrap",
-              "flex-wrap": "wrap"
-            },
-            "@media (max-width: 991px)": {
-              ".media-block": {
-                "flex-basis": "100%",
-                "-webkit-flex-basis": "100%",
-                "padding-left": "0",
-                "padding-bottom": "2rem"
-              }
-            },
-            ".media-container-row when (@reverseContent)": {
-              "-webkit-flex-direction": "row-reverse",
-              "flex-direction": "row-reverse"
-            }
-          },
-          "_name": "counters2",
-          "_customHTML": "<section class=\"counters2 counters\" group=\"Counters\" plugins=\"ViewportChecker\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"6\">\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Show Icons\" name=\"showIcons\" checked>\n        <input type=\"checkbox\" title=\"Show Block Title\" name=\"showTitles\" checked>\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Show Icons\" name=\"showIcons\" checked>\n        <input type=\"checkbox\" title=\"Show Media\" name=\"showMedia\" checked>\n        <input type=\"range\" title=\"Media Size\" inline name=\"mediaSize\" min=\"20\" max=\"60\" value=\"49\" condition=\"showTitle || showSubtitle || showMedia\">\n        <input type=\"checkbox\" title=\"Media On Left/Right\" name=\"reverseContent\" condition=\"showTitle || showSubtitle || showMedia\">\n        <select title=\"Cards Count\" name=\"cardsAmount\">\n           <option value=\"1\">1</option>\n           <option value=\"2\">2</option>\n           <option value=\"3\">3</option>\n           <option value=\"4\" selected>4</option>\n        </select>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n           <input type=\"image\" title=\"Background Image\" value=\"../_images/background2.jpg\">\n           <input type=\"color\" title=\"Background Color\" value=\"#ffffff\" selected>\n           <input type=\"video\" title=\"Background Video\" value=\"https://www.youtube.com/watch?v=36YgDDJ7XSc\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#cccccc\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.5\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container pt-4 mt-2\">\n        <div mbr-class=\"{'media-container-row': showTitle || showSubtitle || showMedia,\n                         'row justify-content-center': !showTitle && !showSubtitle && !showMedia}\">\n            <div class=\"media-block\" mbr-style=\"{'width': mediaSize + '%'}\" mbr-if=\"showTitle || showSubtitle || showMedia\">\n                <h2 class=\"mbr-section-title pb-3 align-left mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\">Optimising for Responsibility&nbsp;</h2>\n                <h3 class=\"mbr-section-subtitle pb-5 align-left mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\">Responsible 100 has been quietly working with hundreds of collaborating organisations to build a unique and powerful tool.</h3>\n                <div class=\"mbr-figure\" mbr-if=\"showMedia\">\n                    <img src=\"@PROJECT_PATH@/assets/images/rt-selection-5-cropped-675x775.png\" alt title>\n                </div>\n            </div>\n            <div class=\"cards-block\">\n                <div class=\"cards-container\">\n                    <div class=\"card px-3 align-left col-12 col-md-6\">\n                        <div class=\"panel-item p-3\">\n                            <div class=\"card-img pb-3\">\n                                <span mbr-icon mbr-if=\"showIcons\" class=\"mbr-iconfont pr-2 mbri-target\"></span>\n                                <h3 class=\"count py-3 mbr-fonts-style\" mbr-theme-style=\"display-2\" data-app-selector=\".count\">58</h3>\n                            </div>\n                            <div class=\"card-text\">\n                                <h4 class=\"mbr-content-title mbr-bold mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showTitles\">\n                                    <br>Critical issues</h4>\n                                <p class=\"mbr-content-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-content-text\"><br>We explore the critical social, environmental and ethical issues affecting business and wider society.</p>\n                            </div>\n                        </div>\n                    </div>\n                    <div class=\"card px-3 align-left col-12 col-md-6\" mbr-if=\"cardsAmount>1\">\n                        <div class=\"panel-item p-3\">\n                            <div class=\"card-img pb-3\">\n                                <span mbr-icon mbr-if=\"showIcons\" class=\"mbr-iconfont pr-2 mbri-setting\"></span>\n                                <h3 class=\"count py-3 mbr-fonts-style\" mbr-theme-style=\"display-2\" data-app-selector=\".count\">57</h3>\n                            </div>\n                            <div class=\"card-text\">\n                                <h4 class=\"mbr-content-title mbr-bold mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showTitles\"><br>Roundtable meetings</h4>\n                                <p class=\"mbr-content-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-content-text\"><br>We convene world-class roundtable meetings which bring businesses and stakeholders together.</p>\n                            </div>\n                        </div>\n                    </div>\n                    <div class=\"card px-3 align-left col-12 col-md-6\" mbr-if=\"cardsAmount>2\">\n                        <div class=\"panel-item p-3\">\n                            <div class=\"card-img pb-3\">\n                                <span mbr-icon mbr-if=\"showIcons\" class=\"mbr-iconfont pr-2 mbri-flag\"></span>\n                                <h3 class=\"count py-3 mbr-fonts-style\" mbr-theme-style=\"display-2\" data-app-selector=\".count\">548</h3>\n                            </div>\n                            <div class=\"card-text\">\n                                <h4 class=\"mbr-content-title mbr-bold mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showTitles\">\n                                    <br>Organisations represented</h4>\n                                <p class=\"mbr-content-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-content-text\"><br>Many of the world's biggest and best known brands, corporations and NGOs have supported and co-created our unique approach.</p>\n                            </div>\n                        </div>\n                    </div>\n                    <div class=\"card px-3 align-left col-12 col-md-6\" mbr-if=\"cardsAmount>3\">\n                        <div class=\"panel-item p-3\">\n                            <div class=\"card-img pb-3\">\n                                <span mbr-icon mbr-if=\"showIcons\" class=\"mbr-iconfont pr-2 mbri-users\"></span>\n                                <h3 class=\"count py-3 mbr-fonts-style\" mbr-theme-style=\"display-2\" data-app-selector=\".count\">757</h3>\n                            </div>\n                            <div class=\"card-texts\">\n                                <h4 class=\"mbr-content-title mbr-bold mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showTitles\"><br>Passionate people</h4>\n                                <p class=\"mbr-content-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-content-text\"><br>Our roundtables have brought hundreds of passionate people together to co-create and innovate for the public good.</p>\n                            </div>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
-          "_cid": "s1l1tEWmWO",
-          "_anchor": "counters2-6",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
