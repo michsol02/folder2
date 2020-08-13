@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site 3",
-    "currentPage": "services-large-businesses.html",
+    "currentPage": "services-SMEs.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -38,7 +38,7 @@
         "url": "https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i"
       }
     ],
-    "uniqCompNum": 38,
+    "uniqCompNum": 42,
     "versionPublish": "4.12.4",
     "screenshot": "screenshot.png"
   },
@@ -3589,11 +3589,143 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"7\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p><b style=\"font-size: 1rem;\">Serving SMEs&nbsp;</b><br></p><p><span style=\"font-size: 1rem;\">We proudly work with a wide range of small and medium-sized enterprises.&nbsp;</span><br></p><p><span style=\"font-size: 1rem;\">Responsible 100 helps your SME to be more responsible, and for your increased responsibility to drive commercial success and financial results.  Starting this process in the earlier stages of business growth will provide a solid foundation to make responsible practices sit at the heart of your operations.&nbsp;</span><br></p><p><span style=\"font-size: 1rem;\">Understanding and addressing a constantly evolving set of pressing social, environmental, ethical and governance issues is a complex and often overwhelming undertaking for any business. We help you to better understand the responsibility challenges you face, how well you perform, and what you can do to improve.&nbsp;</span><br></p><p><b style=\"font-size: 1rem;\"></b>[image]</p><p><b style=\"font-size: 1rem;\"><br></b></p><p><b style=\"font-size: 1rem;\">SMEs Benefits&nbsp;</b><br></p><p>\n<span style=\"font-size: 1rem;\">BEST PRACTICE GUIDELINES&nbsp;</span></p><p>Responsible 100 explores over 50 issues across eight broad responsibility categories: Community, Environment, Ethical Choices, Finance and Governance, Human Rights, Marketplace Ethics, Technology, and Workforce. Our scorecard library constitutes an incredibly valuable resource.\n</p><p>\n<span style=\"font-size: 1rem;\">WHICH ISSUES MATTER MOST TO MY COMPANY?&nbsp;</span></p><p>Determine the relevance and importance of a range of social, environmental and ethical issues to you and your business. We help businesses identify which issues matter most through a short, confidential and no-obligation survey, and associated analysis and personalised report.\t\t\t\t\n</p><p>\n<span style=\"font-size: 1rem;\">HOW IS MY BUSINESS DOING?&nbsp;</span></p><p>Responsible 100 provide self assessment tools and guidance to reveal how your business measures up on the issues that matter most, how you compare to your peers, and where improvements can be made.\n</p><p><span style=\"font-size: 1rem;\">HOW CAN WE IMPROVE?&nbsp;</span></p><p>You now know your priorities and with those in mind together we set your goals and necessary steps to make the greatest positive impact. A tailored improvement plan with clear, achievable milestones. Responsible 100 is here to guide you and provide a regular check up to ensure you and your colleagues reach your targets.\n</p><p>\n<span style=\"font-size: 1rem;\">REPORTING &amp; COMMUNICATING&nbsp;</span></p><p>We help R100 organisations to effectively communicate the things they are doing well, and the areas in which they are improving. Options include: PR strategy, press release writing internal comms; traditional media targeting; social media targeting.\n</p><p><span style=\"font-size: 1rem;\">CONSULTANCY&nbsp;</span><br></p><p>We offer consultancy and support for adoption and integration of improved policies and practices. Having helped to diagnose problems and areas of underperformance, and the appropriate solutions, our experts help clients to plan and deliver the required changes.\t\t\n</p><p><b><br></b></p><p><b>SMEs: How it works\t\n</b></p><p>\n<span style=\"font-size: 1rem;\">Responsible 100 supports SMEs through several valuable processes.&nbsp;</span></p><p><span style=\"font-size: 1rem;\">Entry points differ business to business. Some wish to include their stakeholders, and employees in particular, in these various steps. For other SMEs, this may not be desirable or appropriate.&nbsp;</span><br></p><p>[image]\n</p><p><b style=\"font-size: 1rem;\"><br></b></p><p><b style=\"font-size: 1rem;\"><br></b></p><p><b style=\"font-size: 1rem;\">Fees&nbsp;</b></p><p>[Fee info TBC]</p><p><b><br></b></p></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"7\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p><b style=\"font-size: 1rem;\">Serving SMEs&nbsp;</b><br></p><p><span style=\"font-size: 1rem;\">We proudly work with a wide range of small and medium-sized enterprises.&nbsp;</span><br></p><p><span style=\"font-size: 1rem;\">Responsible 100 helps your SME to be more responsible, and for your increased responsibility to drive commercial success and financial results.  Starting this process in the earlier stages of business growth will provide a solid foundation to make responsible practices sit at the heart of your operations.&nbsp;</span><br></p><p><span style=\"font-size: 1rem;\">Understanding and addressing a constantly evolving set of pressing social, environmental, ethical and governance issues is a complex and often overwhelming undertaking for any business. We help you to better understand the responsibility challenges you face, how well you perform, and what you can do to improve.</span></p></div>\n        </div>\n    </div>\n</section>",
           "_anchor": "content1-g",
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
           "_cid": "s7xDWhxk07",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "background": "@bgColor",
+            "& when (@fullWidth = false)": {
+              "padding-top": "(@paddingTop * 15px)",
+              "padding-bottom": "(@paddingBottom * 15px)"
+            },
+            "& when (@gradientBg)": {
+              "background": "linear-gradient(0deg, @color2, @bgColor)"
+            },
+            ".image-block": {
+              "margin": "auto",
+              "& when (@fullWidth)": {
+                "width": "100% !important"
+              }
+            },
+            "figcaption": {
+              "position": "relative",
+              "div": {
+                "position": "absolute",
+                "bottom": "0",
+                "width": "100%"
+              }
+            },
+            "@media (max-width: 768px)": {
+              ".image-block": {
+                "width": "100% !important"
+              }
+            }
+          },
+          "_name": "image3",
+          "_customHTML": "<section group=\"Images &amp; Videos\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n\n        <input type=\"range\" inline=\"\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n        <input type=\"range\" inline=\"\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked=\"\">        \n        \n        <input type=\"range\" inline=\"\" title=\"Width\" name=\"imageSize\" min=\"20\" max=\"100\" value=\"80\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\" condition=\"fullWidth==false\">\n        <input type=\"checkbox\" title=\"Gradient\" name=\"gradientBg\" condition=\"fullWidth==false\">\n        <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#cc2952\" condition=\"gradientBg &amp;&amp; fullWidth==false\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <figure class=\"mbr-figure\" mbr-class=\"{'container':fullWidth==false}\">\n            <div class=\"image-block\" mbr-style=\"{'width':imageSize+'%'}\">\n                <img src=\"@PROJECT_PATH@/assets/images/continuous-improvement.png\" width=\"1400\" alt=\"Mobirise\" title=\"\">\n                <figcaption class=\"mbr-figure-caption mbr-figure-caption-over\" mbr-if=\"showText\">\n                    <div mbr-text=\"\" class=\"container pb-5 mbr-white align-center mbr-fonts-style\" mbr-theme-style=\"display-1\"></div>\n                </figcaption>\n            </div>\n    </figure>\n</section>",
+          "_anchor": "image3-12",
+          "_isUserblock": true,
+          "_sourceTheme": "mobirise4",
+          "_cid": "s7ygHqnSLJ",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-text, blockquote": {
+              "color": "#767676"
+            },
+            ".mbr-text P": {
+              "text-align": "left"
+            }
+          },
+          "_name": "content1",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"7\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p><b>SMEs Benefits \n</b></p><p>\n</p><p><span style=\"font-size: 1rem;\">BEST PRACTICE GUIDELINES</span></p><p><span style=\"font-size: 1rem;\">Responsible 100 explores over 50 issues across eight broad responsibility categories: Community, Environment, Ethical Choices, Finance and Governance, Human Rights, Marketplace Ethics, Technology, and Workforce. Our scorecard library constitutes an incredibly valuable resource.&nbsp;</span></p><p><b>\n</b></p><p>WHICH ISSUES MATTER MOST TO MY COMPANY? \n</p><p>Determine the relevance and importance of a range of social, environmental and ethical issues to you and your business. We help businesses identify which issues matter most through a short, confidential and no-obligation survey, and associated analysis and personalised report.\n</p><p><b>\n</b></p><p>HOW IS MY BUSINESS DOING? \n</p><p>Responsible 100 provide self assessment tools and guidance to reveal how your business measures up on the issues that matter most, how you compare to your peers, and where improvements can be made.\n</p><p>\n</p><p>HOW CAN WE IMPROVE?<b> \n</b></p><p>You now know your priorities and with those in mind together we set your goals and necessary steps to make the greatest positive impact. A tailored improvement plan with clear, achievable milestones. Responsible 100 is here to guide you and provide a regular check up to ensure you and your colleagues reach your targets.\n</p><p>\n</p><p>REPORTING &amp; COMMUNICATING \n</p><p>We help R100 organisations to effectively communicate the things they are doing well, and the areas in which they are improving. Options include: PR strategy, press release writing internal comms; traditional media targeting; social media targeting.\n</p><p><br></p><p>CONSULTANCY \n</p><p>\n<span style=\"font-size: 1rem;\">We offer consultancy and support for adoption and integration of improved policies and practices. Having helped to diagnose problems and areas of underperformance, and the appropriate solutions, our experts help clients to plan and deliver the required changes.&nbsp;</span></p><p>\n</p><p><b style=\"font-size: 1rem;\"><br></b></p><p><b style=\"font-size: 1rem;\">SMEs: How it works&nbsp;</b><br><b style=\"font-size: 1rem;\"></b></p><p><b>\n</b><span style=\"font-size: 1rem;\">Responsible 100 supports SMEs through several valuable processes. &nbsp;</span></p><p><span style=\"font-size: 1rem;\">Entry points differ business to business. Some wish to include their stakeholders, and employees in particular, in these various steps. For other SMEs, this may not be desirable or appropriate.</span><br></p></div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "content1-13",
+          "_isUserblock": true,
+          "_sourceTheme": "mobirise4",
+          "_cid": "s7ygIPe4uD",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "background": "@bgColor",
+            "& when (@fullWidth = false)": {
+              "padding-top": "(@paddingTop * 15px)",
+              "padding-bottom": "(@paddingBottom * 15px)"
+            },
+            "& when (@gradientBg)": {
+              "background": "linear-gradient(0deg, @color2, @bgColor)"
+            },
+            ".image-block": {
+              "margin": "auto",
+              "& when (@fullWidth)": {
+                "width": "100% !important"
+              }
+            },
+            "figcaption": {
+              "position": "relative",
+              "div": {
+                "position": "absolute",
+                "bottom": "0",
+                "width": "100%"
+              }
+            },
+            "@media (max-width: 768px)": {
+              ".image-block": {
+                "width": "100% !important"
+              }
+            }
+          },
+          "_name": "image3",
+          "_customHTML": "<section group=\"Images &amp; Videos\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n\n        <input type=\"range\" inline=\"\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"1\" step=\"1\" condition=\"fullWidth==false\">\n        <input type=\"range\" inline=\"\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"1\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked=\"\">        \n        \n        <input type=\"range\" inline=\"\" title=\"Width\" name=\"imageSize\" min=\"20\" max=\"100\" value=\"80\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\" condition=\"fullWidth==false\">\n        <input type=\"checkbox\" title=\"Gradient\" name=\"gradientBg\" condition=\"fullWidth==false\">\n        <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#cc2952\" condition=\"gradientBg &amp;&amp; fullWidth==false\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <figure class=\"mbr-figure\" mbr-class=\"{'container':fullWidth==false}\">\n            <div class=\"image-block\" mbr-style=\"{'width':imageSize+'%'}\">\n                <img src=\"@PROJECT_PATH@/assets/images/steps1-10.png\" width=\"1400\" alt=\"Mobirise\" title=\"\">\n                <figcaption class=\"mbr-figure-caption mbr-figure-caption-over\" mbr-if=\"showText\">\n                    <div mbr-text=\"\" class=\"container pb-5 mbr-white align-center mbr-fonts-style\" mbr-theme-style=\"display-1\"></div>\n                </figcaption>\n            </div>\n    </figure>\n</section>",
+          "_anchor": "image3-14",
+          "_isUserblock": true,
+          "_sourceTheme": "mobirise4",
+          "_cid": "s7ygK8OeUj",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-text, blockquote": {
+              "color": "#767676"
+            },
+            ".mbr-text P": {
+              "text-align": "left"
+            }
+          },
+          "_name": "content1",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"7\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p><b>Fees \n</b></p><p><b>\n</b></p><p>[Fee info TBC]</p></div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "content1-15",
+          "_isUserblock": true,
+          "_sourceTheme": "mobirise4",
+          "_cid": "s7ygKQq2tE",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
