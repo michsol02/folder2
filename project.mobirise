@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site 3",
-    "currentPage": "about-information.html",
+    "currentPage": "services-WhatWeDo.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1927,7 +1927,7 @@
       "settings": {
         "meta_descr": "Describe the R100 Process an an overall level. Describe the Badge concept. Roundtable acitvities. Appeals to Corps AND SME's",
         "title": "What We Do",
-        "order": 11
+        "order": 4
       },
       "components": [
         {
@@ -2351,7 +2351,7 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"7\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p><b>Our Process\n</b></p><p>\n<span style=\"font-size: 1rem;\">Responsible 100 helps all businesses to better understand the sustainability and responsibility issues they face. We help assess current performance, determine which practices to change and improve, and how. &nbsp;</span></p><p><span style=\"font-size: 1rem;\">Responsible 100 helps any business to: &nbsp;</span><br></p><p><span style=\"font-size: 1rem;\">&gt;&gt; Clearly identify and better understand the various sustainability and responsibility issues which affect it, and which it affects&nbsp;</span><br></p><p><span style=\"font-size: 1rem;\">&gt;&gt; Identify the issues which matter most, and those where they have the greatest opportunity to positively impact people and planet &nbsp;</span><br></p><p><span style=\"font-size: 1rem;\">&gt;&gt; Map out the possible pathways for achieving better social and environmental practices and outcomes&nbsp;</span><br></p><p><span style=\"font-size: 1rem;\">&gt;&gt; Measure and monitor progress using open-sourced performance benchmarks&nbsp;</span><br></p><p><span style=\"font-size: 1rem;\">&gt;&gt; Report internally and externally&nbsp;</span><br></p><p>\n<span style=\"font-size: 1rem;\">Responsible 100 also supports businesses through every step and in making changes and improvements to their practices.&nbsp;</span></p><p>\n</p><p><span style=\"font-size: 1rem;\"><b>How it Works &nbsp;</b></span></p><p>\n<span style=\"font-size: 1rem;\">Where a business starts in the Responsible 100 process depends on its size and sector. Visit the Corp and SMEs pages for more information.&nbsp;</span></p><p>\n<span style=\"font-size: 1rem;\">There are 4 key steps in Responsible 100’s supported process:</span></p></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"7\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p><b>Our Process\n</b></p><p>\n<span style=\"font-size: 1rem;\">Responsible 100 helps all businesses to better understand the sustainability and responsibility issues they face. We help assess current performance, determine which practices to change and improve, and how. &nbsp;</span></p><p><span style=\"font-size: 1rem;\">Responsible 100 helps any business to: &nbsp;</span><br></p><p><span style=\"font-size: 1rem;\">&gt;&gt; Clearly identify and better understand the various sustainability and responsibility issues which affect it, and which it affects&nbsp;</span><br></p><p><span style=\"font-size: 1rem;\">&gt;&gt; Identify the issues which matter most, and those where they have the greatest opportunity to positively impact people and planet &nbsp;</span><br></p><p><span style=\"font-size: 1rem;\">&gt;&gt; Map out the possible pathways for achieving better social and environmental practices and outcomes&nbsp;</span><br></p><p><span style=\"font-size: 1rem;\">&gt;&gt; Measure and monitor progress using open-sourced performance benchmarks&nbsp;</span><br></p><p><span style=\"font-size: 1rem;\">&gt;&gt; Report internally and externally&nbsp;</span><br></p><p>\n<span style=\"font-size: 1rem;\">Responsible 100 also supports businesses through every step and in making changes and improvements to their practices.&nbsp;</span></p><p><span style=\"font-size: 1rem;\"><br></span></p><p>\n</p><p><span style=\"font-size: 1rem;\"><b>How it Works &nbsp;</b></span></p><p>\n<span style=\"font-size: 1rem;\">Where a business starts in the Responsible 100 process depends on its size and sector. Visit the Corp and SMEs pages for more information.&nbsp;</span></p><p>\n<span style=\"font-size: 1rem;\">There are 4 key steps in Responsible 100’s supported process:</span></p></div>\n        </div>\n    </div>\n</section>",
           "_anchor": "content1-c",
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
@@ -2579,7 +2579,7 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"7\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><b>Responsible 100:\n</b><div><b>\n</b></div><div>&gt;&gt; Helps your company to prioritise key issues to focus in on, improve and innovate around\n</div><div>\n</div><div>&gt;&gt; Supports in creating and/or acting upon improvement plans (including plan writing, project management, workshops, and consultancy)\n</div><div>\n</div><div>&gt;&gt; Enables the measurement, monitoring and visualisation of your company's performance and progress over time\n</div><div>\n</div><div>&gt;&gt; Provides excellent ways to report and to visualise progress and related data\n</div><div>\n</div><div>&gt;&gt; Supports your business with every step\n</div><div><b>\n</b></div><div><b><br></b></div><div><b><br></b></div><div><b>The R100 Badge \n</b></div><div><b>\n</b></div><div>Businesses that actively and continually seek to balance their pursuit of profit and business excellence, with the needs of people and planet, need due recognition and support.\n</div><div>\n</div><div>By providing real choice for consumers, employees and investors who want to help create and be part of a better kind of business, we create economic reward for pursuing real responsibility. As well as creating the critical economic incentives for other businesses to follow suit. \n</div><div>\n</div><div>By connecting the businesses that are best for the world with all those people who wish to see them succeed, we can make real responsibility an increasingly powerful driver of business success. \n</div><div>\n</div><div>Responsible 100 is exploring various ways in which participating businesses can publicise their participation. A badge or kitemark, alongside the provision of statements of commitment to critical issues, in the form of assets for publication are a distinct possibility.  \n</div><div>\n</div><div><br></div><div><br></div><div><b>Roundtables\n</b></div><div><b>\n</b></div><div>Responsible 100’s unique collaborative approach to business responsibility is rooted in efforts to bring a wide range of actors and critical friends together. Namely, businesses and their various stakeholders. \n</div><div>\n</div><div>We held our first roundtable peer review in 2013 and convened a total of 57 over the following five years.  \n</div><div>\n</div><div>These roundtable events brought people together, face to face, in ways that are not possible today. But through the smart use of technology and process design we’ll continue to enable many of the good things to continue to happen. That is to:   \n</div><div>\n</div><div>&gt;&gt; Discuss and debate a wide range of social, environmental, ethical and governance issues \n</div><div>\n</div><div>&gt;&gt; Bring together diverse groups of individuals - including business practitioners, trade bodies, campaigners and NGOs, academics and government\n</div><div>\n</div><div>&gt;&gt; Enable frank, constructive dialogue on the responsibility issues affecting business and wider society\n</div><div>\n</div><div>&gt;&gt; Focus on collaboration and co-creation\n</div><div>\n</div><div>&gt;&gt; Learn from experts and practitioners alike - people who share a passion for the issues under examination and on continuously improving policies and practices to address them\n</div><div>\n</div><div>&gt;&gt; Share and activate knowledge and views as to latest thinking, expertise and developments\n</div><div>\n</div><div>&gt;&gt; Network with peers, experts, practitioners and those affected by the actions (and sometimes inactions) of business\n</div><div>\n</div><div>&gt;&gt; Discuss latest best practices and latest thinking, innovations, likely directions of travel, and more.\n</div><div>\n</div><div>&gt;&gt; Generate new ideas and innovations, and practical changes that you can make in your business to improve\n</div><div>\n</div><div>&gt;&gt; Deploy imagination as a driver of business excellence\n</div><div>\n</div><div>&gt;&gt; Contribute to a deeper understanding as to good, better and best practices on any given issue\n</div><div>\n</div><div><b><br></b></div></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"7\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p><b>Responsible 100:</b></p><p><b>\n</b></p><div><b>\n</b></div><div>&gt;&gt; Helps your company to prioritise key issues to focus in on, improve and innovate around\n</div><div>\n</div><div><br></div><div>&gt;&gt; Supports in creating and/or acting upon improvement plans (including plan writing, project management, workshops, and consultancy)\n</div><div>\n</div><div><br></div><div>&gt;&gt; Enables the measurement, monitoring and visualisation of your company's performance and progress over time\n</div><div>\n</div><div><br></div><div>&gt;&gt; Provides excellent ways to report and to visualise progress and related data\n</div><div>\n</div><div><br></div><div>&gt;&gt; Supports your business with every step\n</div><div><b>\n</b></div><div><b><br></b></div><div><b><br></b></div><div><b>The R100 Badge</b></div><div><b><br></b></div><div><b> \n</b></div><div><b>\n</b></div><div>Businesses that actively and continually seek to balance their pursuit of profit and business excellence, with the needs of people and planet, need due recognition and support.</div><div><br></div><div>\n</div><div>\n</div><div>By providing real choice for consumers, employees and investors who want to help create and be part of a better kind of business, we create economic reward for pursuing real responsibility. As well as creating the critical economic incentives for other businesses to follow suit.</div><div><br></div><div> \n</div><div>\n</div><div>By connecting the businesses that are best for the world with all those people who wish to see them succeed, we can make real responsibility an increasingly powerful driver of business success.</div><div><br></div><div> \n</div><div>\n</div><div>Responsible 100 is exploring various ways in which participating businesses can publicise their participation. A badge or kitemark, alongside the provision of statements of commitment to critical issues, in the form of assets for publication are a distinct possibility.  \n</div><div>\n</div><div><br></div><div><br></div><div><b>Roundtables</b></div><div><b><br></b></div><div><b>\n</b></div><div><b>\n</b></div><div>Responsible 100’s unique collaborative approach to business responsibility is rooted in efforts to bring a wide range of actors and critical friends together. Namely, businesses and their various stakeholders.</div><div><br></div><div> \n</div><div>\n</div><div>We held our first roundtable peer review in 2013 and convened a total of 57 over the following five years.</div><div><br></div><div>  \n</div><div>\n</div><div>These roundtable events brought people together, face to face, in ways that are not possible today. But through the smart use of technology and process design we’ll continue to enable many of the good things to continue to happen. That is to:</div><div><br></div><div>   \n</div><div>\n</div><div>&gt;&gt; Discuss and debate a wide range of social, environmental, ethical and governance issues \n</div><div>\n</div><div><br></div><div><span style=\"font-size: 1rem;\">&gt;&gt; Bring together diverse groups of individuals - including business practitioners, trade bodies, campaigners and NGOs, academics and government</span><br></div><div>\n</div><div><br></div><div>&gt;&gt; Enable frank, constructive dialogue on the responsibility issues affecting business and wider society\n</div><div>\n</div><div><br></div><div>&gt;&gt; Focus on collaboration and co-creation\n</div><div>\n</div><div><br></div><div>&gt;&gt; Learn from experts and practitioners alike - people who share a passion for the issues under examination and on continuously improving policies and practices to address them\n</div><div>\n</div><div><br></div><div>&gt;&gt; Share and activate knowledge and views as to latest thinking, expertise and developments\n</div><div>\n</div><div><br></div><div>&gt;&gt; Network with peers, experts, practitioners and those affected by the actions (and sometimes inactions) of business\n</div><div>\n</div><div><br></div><div>&gt;&gt; Discuss latest best practices and latest thinking, innovations, likely directions of travel, and more.\n</div><div>\n</div><div><br></div><div>&gt;&gt; Generate new ideas and innovations, and practical changes that you can make in your business to improve\n</div><div>\n</div><div><br></div><div>&gt;&gt; Deploy imagination as a driver of business excellence\n</div><div>\n</div><div><br></div><div>&gt;&gt; Contribute to a deeper understanding as to good, better and best practices on any given issue\n</div><div>\n</div><div><b><br></b></div><p></p></div>\n        </div>\n    </div>\n</section>",
           "_anchor": "content1-x",
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
@@ -2595,7 +2595,7 @@
       "settings": {
         "meta_descr": "Describe the service available tailored for larger corporations. Promote sign ups. Appeals to CORPs.",
         "title": "Large Businesses",
-        "order": 10
+        "order": 11
       },
       "components": [
         {
@@ -3165,7 +3165,7 @@
       "settings": {
         "meta_descr": "Describe and promote services tailored for SMEs. Promote Sign Ups. Provide information about fees. Encourage free assesment.",
         "title": "Small & Medium Enterprises",
-        "order": 9
+        "order": 10
       },
       "components": [
         {
@@ -3737,7 +3737,7 @@
       "settings": {
         "meta_descr": "Describe the scorecard process. Describe role of Supporters in the benchmarketing process.",
         "title": "About Benchmarking",
-        "order": 8
+        "order": 9
       },
       "components": [
         {
@@ -4298,7 +4298,7 @@
       "settings": {
         "meta_descr": "To describe the process whereby buying into R100 is adopting responsibilty a skill. Describe the colalborate nature. Explain benefits and USP of the R100 Way.",
         "title": "Continuous Improvement",
-        "order": 7
+        "order": 8
       },
       "components": [
         {
@@ -4804,7 +4804,7 @@
       "settings": {
         "meta_descr": "Show how we helped businessses with scorecards and our process before",
         "title": "Case Studies",
-        "order": 6
+        "order": 7
       },
       "components": [
         {
@@ -5244,7 +5244,7 @@
       "settings": {
         "meta_descr": "Show the collaborative, co-created nature of R100\t",
         "title": "Building Consensus",
-        "order": 5
+        "order": 6
       },
       "components": [
         {
@@ -5750,7 +5750,7 @@
       "settings": {
         "meta_descr": "Guide NGOs and other supporters in what we do. Promote sign ups and get involved.",
         "title": "Supporters",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
