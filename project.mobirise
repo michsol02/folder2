@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site 3",
-    "currentPage": "services-WhatWeDo.html",
+    "currentPage": "services-large-businesses.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -2595,7 +2595,7 @@
       "settings": {
         "meta_descr": "Describe the service available tailored for larger corporations. Promote sign ups. Appeals to CORPs.",
         "title": "Large Businesses",
-        "order": 11
+        "order": 5
       },
       "components": [
         {
@@ -3083,7 +3083,7 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><div><b style=\"font-size: 1rem;\">Corporations Benefits&nbsp;</b></div><div><br></div><div><b>\n</b></div><div>IDENTIFYING &amp; ADOPTING BEST PRACTICE</div><div><br></div><div> \n</div><div>\n</div><div>Responsible 100 explores over 50 issues across eight broad responsibility categories: Community, Environment, Ethical Choices, Finance and Governance, Human Rights, Marketplace Ethics, Technology, and Workforce. Our scorecard library constitutes an incredibly valuable resource.</div><div><br></div><div>\n</div><div>\n</div><div>PEOPLE’S ASSEMBLY PEER REVIEW</div><div><br></div><div> \n</div><div>\n</div><div>Responsible 100 brings together diverse groups - often including business practitioners, trade bodies, campaigners and NGOs, academics and government - for frank, constructive dialogue on the responsibility issues affecting business and wider society. Our people’s assembly constitutes an unmatched source of knowledge, feedback and support.</div><div><br></div><div>\n</div><div>\n</div><div>DIALOGUE &amp; FEEDBACK</div><div><br></div><div> \n</div><div>\n</div><div>Responsible 100 enables businesses to determine how to best balance the pursuit of profit with wider interests of society, and where to make inevitable trade-offs. Crucially, we also enable them to explain and justify the decisions they make and actions they take. Through this process, they offer their stakeholders a means to feed-back and share ideas. They start a conversation. They invite inputs, ideas and comments which help them better understand their business from a variety of perspectives.</div><div><br></div><div>\n</div><div>\n</div><div>MAPPING &amp; BENCHMARKING</div><div><br></div><div> \n</div><div>\n</div><div>We help businesses to understand the social and environmental challenges they face, analyse their performance, benchmark against peers, identify better and best practices, and if, when and how to adopt them.</div><div><br></div><div>\n</div><div>\n</div><div>BETTER DECISION-MAKING</div><div><br></div><div> \n</div><div>\n</div><div>Responsible 100 enables businesses to determine where they meet, surpass or fall short of expectations - their own, and their stakeholders’. They engage in mutually-supportive, mutually-beneficial dialogue and partnership with the people they serve. They’re able to make more informed, more inclusive decisions that effectively incorporate social, environmental and ethical concerns from society at large.</div><div><br></div><div>\n</div><div>\n</div><div>REPORTING &amp; COMMUNICATING</div><div><br></div><div> \n</div><div>\n</div><div>Responsible 100 helps organisations to effectively communicate the things they are doing well, and the areas in which they are improving. We support our clients with PR strategy, press release writing, internal comms, traditional media targeting, social media targeting and more.</div><div><br></div><div>\n</div><div>\n</div><div>VENTURING, INCUBATING &amp; ACCELERATING</div><div><br></div><div> \n</div><div>\n</div><div>Responsible 100 occupies unique spaces at the intersection of business and civil society. As a result, we’ve been able to match investors and corporates with startups and scaleups. We promote and support positive impact projects from venturing, to incubating and accelerating.</div><div><br></div><div><br></div><div> \n</div><div>\n</div><div><b>\n</b></div><div><b>\n</b></div><div><b>Large Businesses: How it works</b></div><div><b><br></b></div><div><b>\n</b></div><div><b>\n</b></div><div>Responsible 100 supports corporations and large organisations through several valuable processes.</div><div><br></div><div>\n</div><div>\n</div><div>Entry points differ business to business. Further, larger organisations are often willing and able to include stakeholders, and employees in particular, in these various steps, to the benefit of all.\n</div><div><b style=\"font-size: 1rem;\"></b></div></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><div><b style=\"font-size: 1rem;\">Corporations Benefits&nbsp;</b></div><div><br></div><div><b>\n</b></div><div>IDENTIFYING &amp; ADOPTING BEST PRACTICE</div><div><br></div><div> \n</div><div>\n</div><div>Responsible 100 explores over 50 issues across eight broad responsibility categories: Community, Environment, Ethical Choices, Finance and Governance, Human Rights, Marketplace Ethics, Technology, and Workforce. Our scorecard library constitutes an incredibly valuable resource.</div><div><br></div><div>\n</div><div>\n</div><div>PEOPLE’S ASSEMBLY PEER REVIEW</div><div><br></div><div> \n</div><div>\n</div><div>Responsible 100 brings together diverse groups - often including business practitioners, trade bodies, campaigners and NGOs, academics and government - for frank, constructive dialogue on the responsibility issues affecting business and wider society. Our people’s assembly constitutes an unmatched source of knowledge, feedback and support.</div><div><br></div><div>\n</div><div>\n</div><div>DIALOGUE &amp; FEEDBACK</div><div><br></div><div> \n</div><div>\n</div><div>Responsible 100 enables businesses to determine how to best balance the pursuit of profit with wider interests of society, and where to make inevitable trade-offs. Crucially, we also enable them to explain and justify the decisions they make and actions they take. Through this process, they offer their stakeholders a means to feed-back and share ideas. They start a conversation. They invite inputs, ideas and comments which help them better understand their business from a variety of perspectives.</div><div><br></div><div>\n</div><div>\n</div><div>MAPPING &amp; BENCHMARKING</div><div><br></div><div> \n</div><div>\n</div><div>We help businesses to understand the social and environmental challenges they face, analyse their performance, benchmark against peers, identify better and best practices, and if, when and how to adopt them.</div><div><br></div><div>\n</div><div>\n</div><div>BETTER DECISION-MAKING</div><div><br></div><div> \n</div><div>\n</div><div>Responsible 100 enables businesses to determine where they meet, surpass or fall short of expectations - their own, and their stakeholders’. They engage in mutually-supportive, mutually-beneficial dialogue and partnership with the people they serve. They’re able to make more informed, more inclusive decisions that effectively incorporate social, environmental and ethical concerns from society at large.</div><div><br></div><div>\n</div><div>\n</div><div>REPORTING &amp; COMMUNICATING</div><div><br></div><div> \n</div><div>\n</div><div>Responsible 100 helps organisations to effectively communicate the things they are doing well, and the areas in which they are improving. We support our clients with PR strategy, press release writing, internal comms, traditional media targeting, social media targeting and more.</div><div><br></div><div>\n</div><div>\n</div><div>VENTURING, INCUBATING &amp; ACCELERATING</div><div><br></div><div> \n</div><div>\n</div><div>Responsible 100 occupies unique spaces at the intersection of business and civil society. As a result, we’ve been able to match investors and corporates with startups and scaleups. We promote and support positive impact projects from venturing, to incubating and accelerating.</div><div><br></div><div><br></div><div><br></div><div> \n</div><div>\n</div><div><b>\n</b></div><div><b>\n</b></div><div><b>Large Businesses: How it works</b></div><div><b><br></b></div><div><b>\n</b></div><div><b>\n</b></div><div>Responsible 100 supports corporations and large organisations through several valuable processes.</div><div><br></div><div>\n</div><div>\n</div><div>Entry points differ business to business. Further, larger organisations are often willing and able to include stakeholders, and employees in particular, in these various steps, to the benefit of all.\n</div><div><b style=\"font-size: 1rem;\"></b></div></div>\n        </div>\n    </div>\n</section>",
           "_anchor": "content1-z",
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
@@ -3165,7 +3165,7 @@
       "settings": {
         "meta_descr": "Describe and promote services tailored for SMEs. Promote Sign Ups. Provide information about fees. Encourage free assesment.",
         "title": "Small & Medium Enterprises",
-        "order": 10
+        "order": 11
       },
       "components": [
         {
@@ -3737,7 +3737,7 @@
       "settings": {
         "meta_descr": "Describe the scorecard process. Describe role of Supporters in the benchmarketing process.",
         "title": "About Benchmarking",
-        "order": 9
+        "order": 10
       },
       "components": [
         {
@@ -4298,7 +4298,7 @@
       "settings": {
         "meta_descr": "To describe the process whereby buying into R100 is adopting responsibilty a skill. Describe the colalborate nature. Explain benefits and USP of the R100 Way.",
         "title": "Continuous Improvement",
-        "order": 8
+        "order": 9
       },
       "components": [
         {
@@ -4804,7 +4804,7 @@
       "settings": {
         "meta_descr": "Show how we helped businessses with scorecards and our process before",
         "title": "Case Studies",
-        "order": 7
+        "order": 8
       },
       "components": [
         {
@@ -5244,7 +5244,7 @@
       "settings": {
         "meta_descr": "Show the collaborative, co-created nature of R100\t",
         "title": "Building Consensus",
-        "order": 6
+        "order": 7
       },
       "components": [
         {
@@ -5750,7 +5750,7 @@
       "settings": {
         "meta_descr": "Guide NGOs and other supporters in what we do. Promote sign ups and get involved.",
         "title": "Supporters",
-        "order": 5
+        "order": 6
       },
       "components": [
         {
