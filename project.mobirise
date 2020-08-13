@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site 3",
-    "currentPage": "about-mission.html",
+    "currentPage": "about-WhyR100.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1047,7 +1047,7 @@
       "settings": {
         "meta_descr": "To help customers understand Why R100 will make a difference",
         "title": "Why Responsible 100?",
-        "order": 11
+        "order": 2
       },
       "components": [
         {
@@ -1471,7 +1471,7 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"7\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p><b>What's wrong with CSR?\n</b></p><p>\n<span style=\"font-size: 1rem;\">One of the problems with CSR (Corporate Social Responsibility) is that it means very different things to different people.&nbsp;</span></p><p><span style=\"font-size: 1rem;\">For some businesses, it is a genuine, ongoing, relevant and sufficient investment in operating at the highest levels of sustainable and responsible best practice. For others, it is an elective or a nice-to-have.&nbsp;</span><br></p><p><span style=\"font-size: 1rem;\">Some businesses pay specialist consultancies to determine and enact CSR commitments rather than do them in-house. Those same consultancies are often also paid to promote the good news stories they duly create about the firm’s apparent commitment to responsible best practices.&nbsp;</span><br></p><p><span style=\"font-size: 1rem;\">Outsourcing responsibility, along with a variety of other factors, creates pressures and incentives to present as a responsible business rather than actually invest and commit more fully to actually being responsible. &nbsp;</span><br></p><p><span style=\"font-size: 1rem;\">It’s the job of pretty much all businesses to be selling us something all the time. Sales patter and marketing spiel have been jumbled together for generations. When doing CSR results in the publication of yet another glossy brochure laden with bold or optimistic claims from the corporation about its proffered values or credentials as good corporate citizens, people are quick to scoff.&nbsp;</span><br></p><p>\n<span style=\"font-size: 1rem;\">There’s no escaping the fact that succeeding in business is hard. Getting products and services to market at the right price and quality, under relentlessly competitive and ever-changing conditions, is difficult enough. Doing so whilst serving the full interests of people and planet at the same time is harder still.&nbsp;</span></p><p><span style=\"font-size: 1rem;\">In the face of the current crises the world faces, and the various problems with CSR, our recommendation is to define the problems and solutions with different words and concepts.&nbsp;</span><br></p><p>\n<span style=\"font-size: 1rem;\">Responsible 100 challenges organisations to practice responsibility as a skill. And to invest in changing actual policies and practices, to improve operational efficiency, reduce risk, and stimulate stronger culture, higher levels of innovation and stakeholder engagement. And to communicate their approach, targets, and progress to achieving their goals with due care and caution. &nbsp;</span></p><p>\n</p><p><b>Why Responsible 100?\n</b></p><p><span style=\"font-size: 1rem;\">Responsible 100 helps any business to practice responsibility. And do so as a skill: normally, routinely, becoming more experienced and expert over time.&nbsp;</span><br></p><p>\n<span style=\"font-size: 1rem;\">We help all businesses, no matter their size, sector, or starting point, to be more responsible, for their own benefit, and to the benefit of everyone else. &nbsp;</span></p><p><span style=\"font-size: 1rem;\">Responsible 100 is unique in its diagnosis of the problem. Businesses around the world remain invested in ‘doing CSR’ yet, despite this (and to some extent because of it), we unflinchingly critique CSR in the ways we do because we’ve been working at the coalface for so many years. We’ve seen first hand how counterproductive it is for businesses to claim to be part of the solution while failing to ameliorate, mitigate or remediate any of the huge social and environmental crises we face.&nbsp;</span></p><p>At the same time we know that apportioning blame is not going to fix anything. We must share responsibility for the crises of global heating, biodiversity loss, poverty, inequality, human rights abuse, etc. No single actor is to blame. However, going forward, we can all take responsibility for helping to build and be part of a better economic system. And we can take issue with those who refuse to share responsibility or seek to cling on to or prop up our busted ‘business as usual’ approaches.  \n</p><p>Responsible 100 is also unique in terms of the solutions it offers. As explained across the rest of this website, our prescription is to practice responsibility as a skill.\n</p><p>We don’t ask businesses to reach a certain grade or milestone, to receive a certificate, to then sit back and bathe in the glory. We offer and support an ongoing commitment to optimising what you do and how you do it. It is about responsibility as a driver of operational efficiency, as a risk mitigator of risk, as a powerful tool for innovation, stakeholder engagement, networking and nurturing organisational culture.\n</p><p>Responsible 100 empowers businesses to maximise their net positive impacts on people and planet, while delivering the goods and service the world wants, leveraging their new responsibility skills as a driver of commercial success, advantage and profit.\n</p></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"7\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p><b>What's wrong with CSR?\n</b></p><p>\n<span style=\"font-size: 1rem;\">One of the problems with CSR (Corporate Social Responsibility) is that it means very different things to different people.&nbsp;</span></p><p><span style=\"font-size: 1rem;\">For some businesses, it is a genuine, ongoing, relevant and sufficient investment in operating at the highest levels of sustainable and responsible best practice. For others, it is an elective or a nice-to-have.&nbsp;</span><br></p><p><span style=\"font-size: 1rem;\">Some businesses pay specialist consultancies to determine and enact CSR commitments rather than do them in-house. Those same consultancies are often also paid to promote the good news stories they duly create about the firm’s apparent commitment to responsible best practices.&nbsp;</span><br></p><p><span style=\"font-size: 1rem;\">Outsourcing responsibility, along with a variety of other factors, creates pressures and incentives to present as a responsible business rather than actually invest and commit more fully to actually being responsible. &nbsp;</span><br></p><p><span style=\"font-size: 1rem;\">It’s the job of pretty much all businesses to be selling us something all the time. Sales patter and marketing spiel have been jumbled together for generations. When doing CSR results in the publication of yet another glossy brochure laden with bold or optimistic claims from the corporation about its proffered values or credentials as good corporate citizens, people are quick to scoff.&nbsp;</span><br></p><p>\n<span style=\"font-size: 1rem;\">There’s no escaping the fact that succeeding in business is hard. Getting products and services to market at the right price and quality, under relentlessly competitive and ever-changing conditions, is difficult enough. Doing so whilst serving the full interests of people and planet at the same time is harder still.&nbsp;</span></p><p><span style=\"font-size: 1rem;\">In the face of the current crises the world faces, and the various problems with CSR, our recommendation is to define the problems and solutions with different words and concepts.&nbsp;</span><br></p><p>\n<span style=\"font-size: 1rem;\">Responsible 100 challenges organisations to practice responsibility as a skill. And to invest in changing actual policies and practices, to improve operational efficiency, reduce risk, and stimulate stronger culture, higher levels of innovation and stakeholder engagement. And to communicate their approach, targets, and progress to achieving their goals with due care and caution. &nbsp;</span></p><p><span style=\"font-size: 1rem;\"><br></span></p><p>\n</p><p><b>Why Responsible 100?\n</b></p><p><span style=\"font-size: 1rem;\">Responsible 100 helps any business to practice responsibility. And do so as a skill: normally, routinely, becoming more experienced and expert over time.&nbsp;</span><br></p><p>\n<span style=\"font-size: 1rem;\">We help all businesses, no matter their size, sector, or starting point, to be more responsible, for their own benefit, and to the benefit of everyone else. &nbsp;</span></p><p><span style=\"font-size: 1rem;\">Responsible 100 is unique in its diagnosis of the problem. Businesses around the world remain invested in ‘doing CSR’ yet, despite this (and to some extent because of it), we unflinchingly critique CSR in the ways we do because we’ve been working at the coalface for so many years. We’ve seen first hand how counterproductive it is for businesses to claim to be part of the solution while failing to ameliorate, mitigate or remediate any of the huge social and environmental crises we face.&nbsp;</span></p><p>At the same time we know that apportioning blame is not going to fix anything. We must share responsibility for the crises of global heating, biodiversity loss, poverty, inequality, human rights abuse, etc. No single actor is to blame. However, going forward, we can all take responsibility for helping to build and be part of a better economic system. And we can take issue with those who refuse to share responsibility or seek to cling on to or prop up our busted ‘business as usual’ approaches.  \n</p><p>Responsible 100 is also unique in terms of the solutions it offers. As explained across the rest of this website, our prescription is to practice responsibility as a skill.\n</p><p>We don’t ask businesses to reach a certain grade or milestone, to receive a certificate, to then sit back and bathe in the glory. We offer and support an ongoing commitment to optimising what you do and how you do it. It is about responsibility as a driver of operational efficiency, as a risk mitigator of risk, as a powerful tool for innovation, stakeholder engagement, networking and nurturing organisational culture.\n</p><p>Responsible 100 empowers businesses to maximise their net positive impacts on people and planet, while delivering the goods and service the world wants, leveraging their new responsibility skills as a driver of commercial success, advantage and profit.\n</p></div>\n        </div>\n    </div>\n</section>",
           "_anchor": "content1-8",
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
@@ -1487,7 +1487,7 @@
       "settings": {
         "meta_descr": "Provide general information about R100 for those that really have no idea what they're looking for.",
         "title": "Information",
-        "order": 10
+        "order": 11
       },
       "components": [
         {
@@ -1927,7 +1927,7 @@
       "settings": {
         "meta_descr": "Describe the R100 Process an an overall level. Describe the Badge concept. Roundtable acitvities. Appeals to Corps AND SME's",
         "title": "What We Do",
-        "order": 9
+        "order": 10
       },
       "components": [
         {
@@ -2595,7 +2595,7 @@
       "settings": {
         "meta_descr": "Describe the service available tailored for larger corporations. Promote sign ups. Appeals to CORPs.",
         "title": "Large Businesses",
-        "order": 8
+        "order": 9
       },
       "components": [
         {
@@ -3165,7 +3165,7 @@
       "settings": {
         "meta_descr": "Describe and promote services tailored for SMEs. Promote Sign Ups. Provide information about fees. Encourage free assesment.",
         "title": "Small & Medium Enterprises",
-        "order": 7
+        "order": 8
       },
       "components": [
         {
@@ -3737,7 +3737,7 @@
       "settings": {
         "meta_descr": "Describe the scorecard process. Describe role of Supporters in the benchmarketing process.",
         "title": "About Benchmarking",
-        "order": 6
+        "order": 7
       },
       "components": [
         {
@@ -4298,7 +4298,7 @@
       "settings": {
         "meta_descr": "To describe the process whereby buying into R100 is adopting responsibilty a skill. Describe the colalborate nature. Explain benefits and USP of the R100 Way.",
         "title": "Continuous Improvement",
-        "order": 5
+        "order": 6
       },
       "components": [
         {
@@ -4804,7 +4804,7 @@
       "settings": {
         "meta_descr": "Show how we helped businessses with scorecards and our process before",
         "title": "Case Studies",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -5244,7 +5244,7 @@
       "settings": {
         "meta_descr": "Show the collaborative, co-created nature of R100\t",
         "title": "Building Consensus",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -5750,7 +5750,7 @@
       "settings": {
         "meta_descr": "Guide NGOs and other supporters in what we do. Promote sign ups and get involved.",
         "title": "Supporters",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
