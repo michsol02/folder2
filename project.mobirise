@@ -46,7 +46,7 @@
         "url": "https://fonts.googleapis.com/css?family=Rubik:300,400,500,600,700,800,900,300i,400i,500i,600i,700i,800i,900i"
       }
     ],
-    "uniqCompNum": 747,
+    "uniqCompNum": 752,
     "versionPublish": "5.4.1",
     "imageResize": true,
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x114.png",
@@ -894,7 +894,7 @@
       "settings": {
         "meta_descr": "More about Responsible 100 benchmarks",
         "title": "Benchmarks",
-        "order": 5
+        "order": 6
       },
       "components": [
         {
@@ -1741,7 +1741,7 @@
       "settings": {
         "meta_descr": "Get Started with Responsible 100, with a free, no obligation prioritisation exercise and report ",
         "title": "Get Started",
-        "order": 7
+        "order": 8
       },
       "components": [
         {
@@ -2373,7 +2373,7 @@
       "settings": {
         "meta_descr": "Responsible 100 - contact us info",
         "title": "Contact Us",
-        "order": 9
+        "order": 10
       },
       "components": [
         {
@@ -2992,7 +2992,7 @@
       "settings": {
         "meta_descr": "Join the Responsible 100 community: various roles for individuals are coming soon",
         "title": "Join Us",
-        "order": 8
+        "order": 9
       },
       "components": [
         {
@@ -3600,7 +3600,7 @@
       "settings": {
         "meta_descr": "More about Responsible 100's workshops with the experts",
         "title": "Workshops",
-        "order": 6
+        "order": 7
       },
       "components": [
         {
@@ -4819,7 +4819,7 @@
       "settings": {
         "meta_descr": "Website terms",
         "title": "Terms",
-        "order": 10
+        "order": 11
       },
       "components": [
         {
@@ -5390,7 +5390,7 @@
       "settings": {
         "meta_descr": "Website privacy policy ",
         "title": "Policy",
-        "order": 11
+        "order": 12
       },
       "components": [
         {
@@ -5961,7 +5961,7 @@
       "settings": {
         "meta_descr": "Website privacy policy ",
         "title": "Privacy",
-        "order": 12
+        "order": 13
       },
       "components": [
         {
@@ -7753,7 +7753,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -9561,7 +9561,7 @@
           },
           "_name": "content1",
           "_sourceTheme": "mobirise4",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><div>\n</div><div>Participating organisations provide details of how they respond to a wide range of responsibility issues, sharing with Responsible 100 and other participants disclosing and sharing in the same way. They are supported in sharing details of their practices, knowledge, experience, assessments of how well currently perform, and of where they strive to be in the future.</div><div><br></div><div>Responsible 100 currently explores 20 separate issues across 8 broad categories. Click the links below to discover more about the issues and to find the carefully crafted questions designed to help your business tell its story:</div><div>&nbsp;</div><div><b>Community\n</b></div><div><a href=\"https://trumpet.app/pods/62ac481108031a7eb8537c7e/live\" class=\"text-primary\" target=\"_blank\">Local Communities</a>\n</div><div><a href=\"https://trumpet.app/pods/62bdcd643665a8ff0c2e9e23/live\" class=\"text-primary\" target=\"_blank\">Causes &amp; Campaigns</a></div><div><br></div><div>\n</div><div><b>Environment\n</b></div><div><a href=\"https://trumpet.app/pods/62cc54007bb1cb2a5f4b35fd/live\" class=\"text-primary\" target=\"_blank\">Carbon Footprint</a>\n</div><div><a href=\"page12.html\" class=\"text-primary\">Reducing Waste</a></div><div><br></div><div>\n</div><div><b>Ethical Choices\n</b></div><div><a href=\"https://responsible100.trumpet.app/pods/62cd9978c47cd8b22fd3ecf8/live\" class=\"text-primary\">Reducing Inequality</a>\n</div><div><a href=\"https://forms.gle/oWsVrbbRep8NUifB9\" class=\"text-primary\">Lobbying &amp; Influence</a></div><div>\n</div><div><br></div><div><b>Finance &amp; Governance\n</b></div><div><a href=\"https://docs.google.com/document/d/1MRS9fXNU9YFY8CJ7i11RNhrfduxXHpQOlAw78pSbkLQ/edit\" class=\"text-primary\">Organisational Culture</a></div><div><a href=\"https://docs.google.com/document/d/1zMbm7K2oz6irEoeDqm-HemCIljotwpNMiVZovZfFCuE/edit?usp=sharing\" class=\"text-primary\">Executive Pay</a>\n</div><div><a href=\"https://responsible100.trumpet.app/pods/62b1d67e01ddb7e374a76cdc/live\" class=\"text-primary\">Effective Governance</a></div><div><br></div><div>\n</div><div><b>Human Rights</b></div><div>\n</div><div><a href=\"https://trumpet.app/pods/edit/62aae56fda87e88e4f01fe12\" class=\"text-primary\">Modern Slavery</a>\n</div><div><a href=\"https://trumpet.app/pods/62d0422e4f214b481a031174/live\" class=\"text-primary\">Rights Of Indigenous Peoples</a>\n</div><div><a href=\"https://docs.google.com/document/d/1pFRvvnulCpazfXtWnb0WJ0LMIDLh7k6k9JNWoi-q2Yw/edit?usp=sharing\" class=\"text-primary\">Trading With Oppressive Regimes</a></div><div><br></div><div>\n</div><div><b>Marketplace Ethics\n</b></div><div><a href=\"https://trumpet.app/pods/62d039fe25afd0df2382477f/live\" class=\"text-primary\">Customer Complaints &amp; Redress</a>\n</div><div><a href=\"https://trumpet.app/pods/62ac866c295260ccb1900308/live\" class=\"text-primary\">Product &amp; Service Information</a>\n</div><div><a href=\"https://docs.google.com/document/d/1SFJSC0F-xPrEpg7K7ciakLYH5S3QOB2ijUFtolivGbc/edit?usp=sharing\" class=\"text-primary\">Responsible Advertising</a></div><div><br></div><div>\n</div><div><b>Technology\n</b></div><div><a href=\"https://responsible100.trumpet.app/pods/62aaefc8eb20226ce04f8f3f/live\" class=\"text-primary\">Cyber Security</a>\n</div><div><a href=\"https://docs.google.com/document/d/1-Ay1hq8HHLQdn1ktS_FZb4-vUgGRDdPkyB5JSwxMYME/edit?usp=sharing\" class=\"text-primary\">Responsible Technology</a></div><div><br></div><div>\n</div><div><b>Workforce\n</b></div><div><a href=\"https://responsible100.trumpet.app/pods/62ab28adceb237f252e8d407/live\" class=\"text-primary\">Employee Mental Health &amp; Wellbeing</a>\n</div><div><a href=\"https://docs.google.com/document/d/12fBJMKKu--gRWjv0p3HOdqWqKShRXAVhasbPVb_Lfj8/edit?usp=sharing\" class=\"text-primary\">Workplace Diversity</a>\n</div><div><a href=\"https://docs.google.com/document/d/1zeR7PfVKZerBSap-a_0UBslsMjogZgZuKxG_-is3_pg/edit?usp=sharing\" class=\"text-primary\">Living Wage</a></div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div> \n</div><div>\n</div><div> \n</div><div>\n</div><div>\n</div><div> \n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div> \n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div> \n</div><div>\n</div><div>\n</div><div>\n</div><div> \n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><div>\n</div><div>Participating organisations provide details of how they respond to a wide range of responsibility issues, sharing with Responsible 100 and other participants disclosing and sharing in the same way. They are supported in sharing details of their practices, knowledge, experience, assessments of how well currently perform, and of where they strive to be in the future.</div><div><br></div><div>Responsible 100 currently explores 20 separate issues across 8 broad categories. Click the links below to discover more about the issues and to find the carefully crafted questions designed to help your business tell its story:</div><div>&nbsp;</div><div><b>Community\n</b></div><div><a href=\"https://trumpet.app/pods/62ac481108031a7eb8537c7e/live\" class=\"text-primary\" target=\"_blank\">Local Communities</a>\n</div><div><a href=\"https://trumpet.app/pods/62bdcd643665a8ff0c2e9e23/live\" class=\"text-primary\" target=\"_blank\">Causes &amp; Campaigns</a></div><div><br></div><div>\n</div><div><b>Environment\n</b></div><div><a href=\"https://trumpet.app/pods/62cc54007bb1cb2a5f4b35fd/live\" class=\"text-primary\" target=\"_blank\">Carbon Footprint</a>\n</div><div><a href=\"page12.html\" class=\"text-primary\">Reducing Waste</a></div><div><br></div><div>\n</div><div><b>Ethical Choices\n</b></div><div><a href=\"https://responsible100.trumpet.app/pods/62cd9978c47cd8b22fd3ecf8/live\" class=\"text-primary\" target=\"_blank\">Reducing Inequality</a>\n</div><div><a href=\"page13.html\" class=\"text-primary\">Lobbying &amp; Influence</a></div><div>\n</div><div><br></div><div><b>Finance &amp; Governance\n</b></div><div><a href=\"https://docs.google.com/document/d/1MRS9fXNU9YFY8CJ7i11RNhrfduxXHpQOlAw78pSbkLQ/edit\" class=\"text-primary\">Organisational Culture</a></div><div><a href=\"https://docs.google.com/document/d/1zMbm7K2oz6irEoeDqm-HemCIljotwpNMiVZovZfFCuE/edit?usp=sharing\" class=\"text-primary\">Executive Pay</a>\n</div><div><a href=\"https://responsible100.trumpet.app/pods/62b1d67e01ddb7e374a76cdc/live\" class=\"text-primary\">Effective Governance</a></div><div><br></div><div>\n</div><div><b>Human Rights</b></div><div>\n</div><div><a href=\"https://trumpet.app/pods/edit/62aae56fda87e88e4f01fe12\" class=\"text-primary\">Modern Slavery</a>\n</div><div><a href=\"https://trumpet.app/pods/62d0422e4f214b481a031174/live\" class=\"text-primary\">Rights Of Indigenous Peoples</a>\n</div><div><a href=\"https://docs.google.com/document/d/1pFRvvnulCpazfXtWnb0WJ0LMIDLh7k6k9JNWoi-q2Yw/edit?usp=sharing\" class=\"text-primary\">Trading With Oppressive Regimes</a></div><div><br></div><div>\n</div><div><b>Marketplace Ethics\n</b></div><div><a href=\"https://trumpet.app/pods/62d039fe25afd0df2382477f/live\" class=\"text-primary\">Customer Complaints &amp; Redress</a>\n</div><div><a href=\"https://trumpet.app/pods/62ac866c295260ccb1900308/live\" class=\"text-primary\">Product &amp; Service Information</a>\n</div><div><a href=\"https://docs.google.com/document/d/1SFJSC0F-xPrEpg7K7ciakLYH5S3QOB2ijUFtolivGbc/edit?usp=sharing\" class=\"text-primary\">Responsible Advertising</a></div><div><br></div><div>\n</div><div><b>Technology\n</b></div><div><a href=\"https://responsible100.trumpet.app/pods/62aaefc8eb20226ce04f8f3f/live\" class=\"text-primary\">Cyber Security</a>\n</div><div><a href=\"https://docs.google.com/document/d/1-Ay1hq8HHLQdn1ktS_FZb4-vUgGRDdPkyB5JSwxMYME/edit?usp=sharing\" class=\"text-primary\">Responsible Technology</a></div><div><br></div><div>\n</div><div><b>Workforce\n</b></div><div><a href=\"https://responsible100.trumpet.app/pods/62ab28adceb237f252e8d407/live\" class=\"text-primary\">Employee Mental Health &amp; Wellbeing</a>\n</div><div><a href=\"https://docs.google.com/document/d/12fBJMKKu--gRWjv0p3HOdqWqKShRXAVhasbPVb_Lfj8/edit?usp=sharing\" class=\"text-primary\">Workplace Diversity</a>\n</div><div><a href=\"https://docs.google.com/document/d/1zeR7PfVKZerBSap-a_0UBslsMjogZgZuKxG_-is3_pg/edit?usp=sharing\" class=\"text-primary\">Living Wage</a></div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div> \n</div><div>\n</div><div> \n</div><div>\n</div><div>\n</div><div> \n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div> \n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div> \n</div><div>\n</div><div>\n</div><div>\n</div><div> \n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div></div>\n        </div>\n    </div>\n</section>",
           "_isUserblock": true,
           "_cid": "te09VrbYZH",
           "_anchor": "content1-jc",
@@ -9686,7 +9686,7 @@
       "settings": {
         "meta_descr": "The social, environmental and ethical issues that Responsible 100 explores ",
         "title": "Recycling &amp; Waste",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -10142,7 +10142,7 @@
             }
           },
           "_name": "content10",
-          "_customHTML": "<section class=\"mbr-section article content10\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"6\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"10\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#efefef\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#efefef\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-white mbr-fonts-style\" mbr-theme-style=\"display-2\" data-app-selector=\".section-text\" mbr-text><b><a href=\"issues.html\" class=\"text-primary\">20 Responsibility Issues</a> &gt; Recycling&nbsp;&amp; Waste</b></div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content10\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"6\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"10\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#efefef\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#efefef\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-white mbr-fonts-style\" mbr-theme-style=\"display-2\" data-app-selector=\".section-text\" mbr-text><b><a href=\"issues.html\" class=\"text-primary\">20 Responsibility Issues</a> </b><br><b>&gt; Recycling&nbsp;&amp; Waste</b></div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n    </div>\n</section>",
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
           "_cid": "te6DWTHfhE",
@@ -10285,6 +10285,612 @@
           "_once": false,
           "_params": {},
           "_anchor": "footer1-kq"
+        }
+      ]
+    },
+    "page13.html": {
+      "settings": {
+        "meta_descr": "The social, environmental and ethical issues that Responsible 100 explores ",
+        "title": "Lobbying &amp; Influence",
+        "order": 3
+      },
+      "components": [
+        {
+          "alias": false,
+          "_styles": {
+            ".navbar": {
+              "background": "@menuBgColor",
+              "transition": "none",
+              "min-height": "77px",
+              "padding": ".5rem 0"
+            },
+            ".navbar-dropdown.bg-color.transparent.opened": {
+              "background": "@menuBgColor"
+            },
+            "a": {
+              "font-style": "normal"
+            },
+            ".nav-item": {
+              "& span": {
+                "padding-right": "0.4em",
+                "line-height": "0.5em",
+                "vertical-align": "text-bottom",
+                "position": "relative",
+                "text-decoration": "none"
+              },
+              "& a": {
+                "display": "-webkit-flex",
+                "align-items": "center",
+                "justify-content": "center",
+                "padding": "0.7rem 0 !important",
+                "margin": "0rem .65rem !important",
+                "-webkit-align-items": "center",
+                "-webkit-justify-content": "center"
+              }
+            },
+            ".nav-item:focus, .nav-link:focus": {
+              "outline": "none"
+            },
+            ".btn": {
+              "padding": "0.4rem 1.5rem",
+              "display": "-webkit-inline-flex",
+              "align-items": "center",
+              "-webkit-align-items": "center",
+              ".mbr-iconfont": {
+                "font-size": "1.6rem"
+              }
+            },
+            ".menu-logo": {
+              "margin-right": "auto",
+              ".navbar-brand": {
+                "display": "flex",
+                "margin-left": "5rem",
+                "padding": "0",
+                "transition": "padding .2s",
+                "min-height": "3.8rem",
+                "-webkit-align-items": "center",
+                "align-items": "center",
+                ".navbar-caption-wrap": {
+                  "display": "flex",
+                  "-webkit-align-items": "center",
+                  "align-items": "center",
+                  "word-break": "break-word",
+                  "min-width": "7rem",
+                  "margin": ".3rem 0",
+                  ".navbar-caption": {
+                    "line-height": "1.2rem !important",
+                    "padding-right": "2rem"
+                  }
+                },
+                ".navbar-logo": {
+                  "font-size": "4rem",
+                  "transition": "font-size 0.25s",
+                  "& img": {
+                    "display": "flex"
+                  },
+                  ".mbr-iconfont": {
+                    "transition": "font-size 0.25s"
+                  },
+                  "a": {
+                    "display": "inline-flex"
+                  }
+                }
+              }
+            },
+            ".navbar-toggleable-sm .navbar-collapse": {
+              "justify-content": "flex-end",
+              "-webkit-justify-content": "flex-end",
+              "padding-right": "5rem",
+              "width": "auto",
+              ".navbar-nav": {
+                "flex-wrap": "wrap",
+                "-webkit-flex-wrap": "wrap",
+                "padding-left": "0",
+                ".nav-item": {
+                  "-webkit-align-self": "center",
+                  "align-self": "center"
+                }
+              },
+              ".navbar-buttons": {
+                "padding-left": "0",
+                "padding-bottom": "0"
+              }
+            },
+            ".dropdown": {
+              ".dropdown-menu": {
+                "background": "@menuBgColor",
+                "visibility": "hidden",
+                "display": "block",
+                "position": "absolute",
+                "min-width": "5rem",
+                "padding-top": "1.4rem",
+                "padding-bottom": "1.4rem",
+                "text-align": "left",
+                ".dropdown-item": {
+                  "width": "auto",
+                  "padding": "0.235em 1.5385em 0.235em 1.5385em !important",
+                  "&::after": {
+                    "right": "0.5rem"
+                  }
+                },
+                ".dropdown-submenu": {
+                  "margin": "0"
+                }
+              },
+              "&.open > .dropdown-menu": {
+                "visibility": "visible"
+              }
+            },
+            ".navbar-toggleable-sm": {
+              "&.opened:after": {
+                "position": "absolute",
+                "width": "100vw",
+                "height": "100vh",
+                "content": "''",
+                "background-color": "rgba(0, 0, 0, 0.1)",
+                "left": "0",
+                "bottom": "0",
+                "transform": "translateY(100%)",
+                "-webkit-transform": "translateY(100%)",
+                "z-index": "1000"
+              }
+            },
+            ".navbar.navbar-short": {
+              "min-height": "60px",
+              "transition": "all .2s",
+              "& .navbar-toggler-right": {
+                "top": "20px"
+              },
+              "& .navbar-logo a": {
+                "font-size": "2.5rem !important",
+                "line-height": "2.5rem",
+                "transition": "font-size 0.25s",
+                "& .mbr-iconfont": {
+                  "font-size": "2.5rem !important"
+                },
+                "& img": {
+                  "height": "3rem !important"
+                }
+              },
+              "& .navbar-brand": {
+                "min-height": "3rem"
+              }
+            },
+            "button.navbar-toggler": {
+              "width": "31px",
+              "height": "18px",
+              "cursor": "pointer",
+              "transition": "all .2s",
+              "top": "1.5rem",
+              "right": "1rem",
+              "&:focus": {
+                "outline": "none"
+              },
+              ".hamburger span": {
+                "position": "absolute",
+                "right": "0",
+                "width": "30px",
+                "height": "2px",
+                "border-right": "5px",
+                "background-color": "@hamburgerColor",
+                "&:nth-child(1)": {
+                  "top": "0",
+                  "transition": "all .2s"
+                },
+                "&:nth-child(2)": {
+                  "top": "8px",
+                  "transition": "all .15s"
+                },
+                "&:nth-child(3)": {
+                  "top": "8px",
+                  "transition": "all .15s"
+                },
+                "&:nth-child(4)": {
+                  "top": "16px",
+                  "transition": "all .2s"
+                }
+              }
+            },
+            "nav.opened .hamburger span": {
+              "&:nth-child(1)": {
+                "top": "8px",
+                "width": "0",
+                "opacity": "0",
+                "right": "50%",
+                "transition": "all .2s"
+              },
+              "&:nth-child(2)": {
+                "-webkit-transform": "rotate(45deg)",
+                "transform": "rotate(45deg)",
+                "transition": "all .25s"
+              },
+              "&:nth-child(3)": {
+                "-webkit-transform": "rotate(-45deg)",
+                "transform": "rotate(-45deg)",
+                "transition": "all .25s"
+              },
+              "&:nth-child(4)": {
+                "top": "8px",
+                "width": "0",
+                "opacity": "0",
+                "right": "50%",
+                "transition": "all .2s"
+              }
+            },
+            ".collapsed": {
+              "&.navbar-expand": {
+                "flex-direction": "column",
+                "-webkit-flex-direction": "column"
+              },
+              ".btn": {
+                "display": "-webkit-flex"
+              },
+              ".navbar-collapse": {
+                "display": "none !important",
+                "padding-right": "0 !important",
+                "&.collapsing,&.show": {
+                  "display": "block !important",
+                  ".navbar-nav": {
+                    "display": "block",
+                    "text-align": "center",
+                    ".nav-item": {
+                      "clear": "both",
+                      "& when (@showButtons = false)": {
+                        "&:last-child": {
+                          "margin-bottom": "1rem"
+                        }
+                      }
+                    }
+                  },
+                  ".navbar-buttons": {
+                    "text-align": "center",
+                    "&:last-child": {
+                      "margin-bottom": "1rem"
+                    }
+                  }
+                }
+              },
+              "@media (min-width: 1024px)": {
+                "&:not(.navbar-short) .navbar-collapse when (@showLogo)": {
+                  "max-height": "~\"calc(98.5vh - @{logoSize}rem)\""
+                }
+              },
+              "button.navbar-toggler": {
+                "display": "block"
+              },
+              ".navbar-brand": {
+                "margin-left": "1rem !important"
+              },
+              ".navbar-toggleable-sm": {
+                "flex-direction": "column",
+                "-webkit-flex-direction": "column"
+              },
+              ".dropdown": {
+                ".dropdown-menu": {
+                  "width": "100%",
+                  "text-align": "center",
+                  "position": "relative",
+                  "opacity": "0",
+                  "overflow": "hidden",
+                  "display": "block",
+                  "height": "0",
+                  "visibility": "hidden",
+                  "padding": "0",
+                  "transition-duration": ".5s",
+                  "transition-property": "opacity,padding,height"
+                },
+                "&.open > .dropdown-menu": {
+                  "position": "relative",
+                  "opacity": "1",
+                  "height": "auto",
+                  "padding": "1.4rem 0",
+                  "visibility": "visible"
+                },
+                ".dropdown-submenu": {
+                  "left": "0",
+                  "text-align": "center",
+                  "width": "100%"
+                },
+                ".dropdown-toggle[data-toggle=\"dropdown-submenu\"]::after": {
+                  "margin-top": "0",
+                  "position": "inherit",
+                  "right": "0",
+                  "top": "50%",
+                  "display": "inline-block",
+                  "width": "0",
+                  "height": "0",
+                  "margin-left": ".3em",
+                  "vertical-align": "middle",
+                  "content": "\"\"",
+                  "border-top": ".30em solid",
+                  "border-right": ".30em solid transparent",
+                  "border-left": ".30em solid transparent"
+                }
+              }
+            },
+            "@media (max-width: 1023px)": {
+              "&.navbar-expand": {
+                "flex-direction": "column",
+                "-webkit-flex-direction": "column"
+              },
+              "img": {
+                "height": "3.8rem !important"
+              },
+              ".btn": {
+                "display": "-webkit-flex"
+              },
+              "button.navbar-toggler": {
+                "display": "block"
+              },
+              ".navbar-brand": {
+                "margin-left": "1rem !important"
+              },
+              ".navbar-toggleable-sm": {
+                "flex-direction": "column",
+                "-webkit-flex-direction": "column"
+              },
+              ".navbar-collapse": {
+                "display": "none !important",
+                "padding-right": "0 !important",
+                "&.collapsing,&.show": {
+                  "display": "block !important",
+                  ".navbar-nav": {
+                    "display": "block",
+                    "text-align": "center",
+                    ".nav-item": {
+                      "clear": "both",
+                      "& when (@showButtons = false)": {
+                        "&:last-child": {
+                          "margin-bottom": "1rem"
+                        }
+                      }
+                    }
+                  },
+                  ".navbar-buttons": {
+                    "text-align": "center",
+                    "&:last-child": {
+                      "margin-bottom": "1rem"
+                    }
+                  }
+                }
+              },
+              ".dropdown": {
+                ".dropdown-menu": {
+                  "width": "100%",
+                  "text-align": "center",
+                  "position": "relative",
+                  "opacity": "0",
+                  "overflow": "hidden",
+                  "display": "block",
+                  "height": "0",
+                  "visibility": "hidden",
+                  "padding": "0",
+                  "transition-duration": ".5s",
+                  "transition-property": "opacity,padding,height"
+                },
+                "&.open > .dropdown-menu": {
+                  "position": "relative",
+                  "opacity": "1",
+                  "height": "auto",
+                  "padding": "1.4rem 0",
+                  "visibility": "visible"
+                },
+                ".dropdown-submenu": {
+                  "left": "0",
+                  "text-align": "center",
+                  "width": "100%"
+                },
+                ".dropdown-toggle[data-toggle=\"dropdown-submenu\"]::after": {
+                  "margin-top": "0",
+                  "position": "inherit",
+                  "right": "0",
+                  "top": "50%",
+                  "display": "inline-block",
+                  "width": "0",
+                  "height": "0",
+                  "margin-left": ".3em",
+                  "vertical-align": "middle",
+                  "content": "\"\"",
+                  "border-top": ".30em solid",
+                  "border-right": ".30em solid transparent",
+                  "border-left": ".30em solid transparent"
+                }
+              }
+            },
+            "@media (min-width: 767px)": {
+              ".menu-logo": {
+                "flex-shrink": "0",
+                "-webkit-flex-shrink": "0"
+              }
+            },
+            ".navbar-collapse": {
+              "flex-basis": "auto",
+              "-webkit-flex-basis": "auto"
+            },
+            ".nav-link:hover, .dropdown-item:hover": {
+              "color": "@itemsHoverColor !important"
+            }
+          },
+          "_name": "menu2",
+          "_customHTML": "<section class=\"menu\" group=\"Menu\" plugins=\"DropDown, TouchSwipe\" always-top global not-draggable once=\"menu\" position-absolute>\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Show Logo\" name=\"showLogo\" checked>\n        <input type=\"range\" title=\"Logo Size\" inline name=\"logoSize\" min=\"3.8\" max=\"8\" step=\"0.1\" value=\"5\" condition=\"showLogo\">\n        <input type=\"checkbox\" title=\"Show Brand Name\" name=\"showBrand\">\n        <input type=\"checkbox\" title=\"Show Menu Items\" name=\"showItems\">\n        <input type=\"color\" title=\"Items Hover Color\" name=\"itemsHoverColor\" value=\"#e70941\" condition=\"showItems\">\n        <input type=\"checkbox\" title=\"Show Button(s)\" name=\"showButtons\" checked>\n        <input type=\"checkbox\" title=\"Sticky\" name=\"sticky\" checked>\n        <input type=\"checkbox\" title=\"Collapsed\" name=\"collapsed\">\n        <input type=\"checkbox\" title=\"Transparent\" name=\"transparent\">\n        <input type=\"color\" title=\"Hamburger Color\" name=\"hamburgerColor\" value=\"#e70941\">\n        <input type=\"color\" title=\"Background Color\" name=\"menuBgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <nav class=\"navbar navbar-expand beta-menu navbar-dropdown align-items-center\" mbr-class=\"{\n        'navbar-fixed-top': sticky,\n        'navbar-toggleable-sm': !collapsed,\n        'collapsed': collapsed,\n        'bg-color transparent': transparent\n        }\">\n        <button class=\"navbar-toggler navbar-toggler-right\" type=\"button\" data-toggle=\"collapse\" data-target=\"#navbarSupportedContent\" aria-controls=\"navbarSupportedContent\" aria-expanded=\"false\" aria-label=\"Toggle navigation\">\n            <div class=\"hamburger\">\n                <span></span>\n                <span></span>\n                <span></span>\n                <span></span>\n            </div>\n        </button>\n        <div class=\"menu-logo\">\n            <div class=\"navbar-brand\">\n                <span mbr-if=\"showLogo\" class=\"navbar-logo\">\n                    <a href=\"index.html\">\n                        <img src=\"@PROJECT_PATH@/assets/images/logo-300px-no-border-165x147.png\" alt=\"Mobirise\" mbr-style=\"{'height': logoSize + 'rem'}\" title>\n                    </a>\n                </span>\n                <span mbr-if=\"showBrand\" mbr-buttons mbr-theme-style=\"display-4\" class=\"navbar-caption-wrap\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove\">\n                    <a class=\"navbar-caption text-black\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.co\">\n                        MOBIRISE\n                    </a>\n                </span>\n            </div>\n        </div>\n        <div class=\"collapse navbar-collapse\" id=\"navbarSupportedContent\">\n            <ul mbr-if=\"showItems\" mbr-menu class=\"navbar-nav nav-dropdown\" mbr-theme-style=\"display-4\" mbr-class=\"{'nav-right': !showButtons,\n                'navbar-nav-top-padding': isPublish && !showBrand && !showLogo}\"><li class=\"nav-item\">\n                    <a class=\"nav-link link text-info\" href=\"#\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"true\"><span class=\"mobi-mbri mobi-mbri-info mbr-iconfont mbr-iconfont-btn\"></span>\n                        About us\n                    </a>\n                </li></ul>\n            <div mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-7\" class=\"navbar-buttons mbr-section-btn\"><a class=\"btn btn-sm btn-primary\" href=\"7-steps.html\" data-app-placeholder=\"Type Text\"><strong>7 Step Process</strong></a>  <a class=\"btn btn-sm btn-primary\" href=\"issues.html\" data-app-placeholder=\"Type Text\"><strong>20 Responsibility Issues</strong></a> <a class=\"btn btn-sm btn-primary\" href=\"about.html\" data-app-placeholder=\"Type Text\"><strong>About</strong></a> <a class=\"btn btn-sm btn-secondary\" href=\"get-started.html\" data-app-placeholder=\"Type Text\"><strong>Get Started</strong></a></div>\n        </div>\n    </nav>\n</section>",
+          "_cid": "te6HDZrUYT",
+          "_protectedParams": [],
+          "_global": true,
+          "_once": "menu",
+          "_params": {},
+          "_anchor": "menu2-kr"
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".line": {
+              "background-color": "@lineColor",
+              "color": "@lineColor",
+              "align": "center",
+              "height": "2px",
+              "margin": "0 auto"
+            },
+            ".section-text": {
+              "padding": "2rem 0",
+              "text-align": "left",
+              "color": "#e70941"
+            },
+            ".inner-container": {
+              "margin": "0 auto"
+            },
+            "@media (max-width: 768px)": {
+              ".inner-container": {
+                "width": "100% !important"
+              }
+            }
+          },
+          "_name": "content10",
+          "_customHTML": "<section class=\"mbr-section article content10\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"6\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"10\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#efefef\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#efefef\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-white mbr-fonts-style\" mbr-theme-style=\"display-2\" data-app-selector=\".section-text\" mbr-text><b><a href=\"issues.html\" class=\"text-primary\">20 Responsibility Issues</a></b><br><b>&gt; Lobbying &amp; Influence</b></div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n    </div>\n</section>",
+          "_isUserblock": true,
+          "_sourceTheme": "mobirise4",
+          "_cid": "te6HE0oO4P",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "content10-ks"
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-text, blockquote": {
+              "color": "#767676"
+            },
+            ".mbr-text": {
+              "color": "#465052"
+            }
+          },
+          "_name": "content1",
+          "_sourceTheme": "mobirise4",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><div>\n</div><div><span style=\"font-size: 1.5rem;\">Government access is an important exercise of democratic freedom, and this usually includes corporate access as well as access for citizens. However, it offends the public when corporate access is used to extend buying influence or otherwise gain private advantages through lobbying activity, especially when it could be detrimental to the public interest.</span></div><div><br></div><div>So, let’s start with a definition of what lobbying is. ‘Lobbying’ is the practice of seeking to influence the opinions or decisions of government members, politicians, or public officials. Lobbying also includes programs that seek to influence public opinion.</div><div><br></div><div>\n</div><div>A public official is an individual (and their advisors) with decision-making power, who are elected, appointed, or employed within the executive or legislative branches of power at national, sub-national, or supranational levels; within private bodies performing public functions; and within international public organisations.</div><div><br></div><div>\n</div><div>Methods of lobbying vary. They can range from individuals sending letters to their elected representatives, to businesses and trade associations making presentations, providing briefing material to decision-makers, networking with decision-makers, and using personal contacts to extend influence and access to decision-makers or government officials.</div><div><br></div><div>\n</div><div>Many organisations are founded and funded by businesses that operate in a specific industry, such as trade associations, industry trade groups, business associations, sector associations or industry bodies. Such ‘trade associations’ aim to promote the interests of the sector, rather than a specific organisation. However, trade associations may disproportionately represent a few big players in their sector rather than smaller organisations that may have differing interests.</div><div><br></div><div>\n</div><div>These are similar to trade unions, which also seek to represent the interests of their members. But a trade union is different from a trade association in that it represents the interests of workers, often promoting more social or economic interests for the individuals, such as financial assistance.</div><div><br></div><div>\n</div><div>Lobbying should be consistent with your organisation’s values, as well as what your organisation stands for, or claims to stand for. When this doesn’t happen, the public can call out lobbying actions as hypocritical. For example, last year, the CEO of Google published a letter along with 200 other CEOs in opposition to a repressive voting law in Georgia. However, Google was soon exposed for funding an organisation that supported this and similar laws, laying bare a disconnect between the values they showed to the public, and the way they truly acted behind closed doors.</div><div><br></div><div>\n</div><div>History is littered with examples of businesses purporting to support calls for change on some important issue in the public interest, while secretly lobbying for permission to avoid making any real changes that may affect their short-term profitability.</div><div><br></div><div>The campaign group InfluenceMap came into being as a result of the phenomenon that the world’s biggest oil companies started to report to the CDP, an initiative to promote detailed disclosure from companies and governments on environmental impacts, while at the same time funding climate change denial propaganda and think tanks. Influence Map now analyses and reports on the gap between what oil majors say, and what they do, when it comes to the transition to a low carbon economy.</div><div><br></div><div> \n</div><div>Public perception of lobbying is largely cynical. 63% of people polled by the Gallup Poll rated ‘the honesty and ethical standards’ of lobbyists as low or very low. Lobbyists were the worst rated from the list of professions polled. The expectation is that businesses want something in return for their lobbying practices and that there are always secret motives hidden behind their actions.\n</div><div>This public perception isn’t helped by the knowledge of the various methods of indirect lobbying, which can sometimes include schmoozing with lavish hospitality, tickets to concerts and sporting events, and even holidays, such as 2-day conferences in tourist resorts where a 2-week stay is thrown in.</div><div><br></div><div> \n</div><div>Paid jobs are sometimes offered as well: Owen Paterson, an MP, was hired as a part-time consultant for Randox in 2015 and worked within the government to advocate for certain benefits to Randox, including a contract to produce testing kits during the COVID-19 pandemic.\n</div><div>However, indirect lobbying can also include donating to campaign groups and funding think tanks. A think tank is a body of experts that provide advice and ideas on political or economic issues. ‘Think tanks’ can be used by lobbyists to access public figures at events.</div><div><br></div><div> \n</div><div>Think tanks can serve legitimate and beneficial functions such as contributing to the formation of beneficial public policy and offering technical expertise. However, less unscrupulous think tanks have been exposed for offering to write reports with pre-set conclusions for cash, and others are merely fronts to allow corporations or other organisations to promote their interests and access public officials.</div><div><br></div><div>\n</div><div>Political donations give businesses tremendous power over political decisions. In the United States, ‘the top five donors, alone, account for more than a quarter of all’ independent expenditure-only committee donations. Here in the UK, the Conservative party is heavily reliant on hedge funds and bankers for its funding. It is fair to ask: what are such funders seeking to gain?</div><div><br></div><div> \n</div><div>One close tie that businesses often have with the government, and that heavily influences lobbying practices, is the ‘revolving door.’ The revolving door refers to the movement of staff between the public and private sector, bringing with them contacts and influence, or between public procurement, regulatory, executive or legislative roles and organisations that are affected by such regulation, legislation, or decisions.</div><div><br></div><div>\n</div><div>When done conscientiously, these revolving doors enable business and government to better understand each other and bring practical experience to policy-making, with benefits to wider society. However, there is a clear danger that when ‘switching sides’ from, for example, a water ombudsman to the CEO of a water company, insiders are also well placed to secure favours and advantages for themselves and private business interests.</div><div><br></div><div>\n</div><div>Most lobbying is unregulated in the UK. The Committee on Standards in Public Life assists the Prime Minister in assessing ethical practices in public life and is in charge of conducting inquiries into any inappropriate practices done in the public sector.</div><div><br></div><div>\n</div><div>This Committee claims that the issue with lobbying sits in the lack of transparency about business interests. Where businesses go wrong is not in the practice of lobbying itself, but rather, in the abuse of such practices.</div><div><br></div><div>\n</div><div>An example of the lack of regulation from the government, and abuse from business, is the recent leaking of the Uber Files, which reveal that, among other things, Uber utilised a ‘kill switch’ to avoid investigations during police raids, worked closely with French President Emmanuel Macron to pursue their business interests, and attempted to gain closer ties with Russian President Vladimir Putin by seeking allies among Russia’s most rich and powerful people.\n</div><div>Thank you so much for watching this video explainer on Lobbying and Influence! If you would like more help on this or any other issue, Responsible 100 can be there for you every step of the way with workshops and personalised help.</div><div><br></div><div>\n</div><div>Please answer some carefully crafted questions we've devised to help you apply the basics of this fascinating set of issues to your organisation, and describe some of the things you do, and why. <a href=\"https://docs.google.com/forms/d/e/1FAIpQLScV22bq-dw_n6661W3tPva7E6z-Z5CLO2ott_4oGV1KVb7ZUg/viewform\" class=\"text-primary\" target=\"_blank\">Click here for the questions</a>.</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div> \n</div><div>\n</div><div> \n</div><div>\n</div><div>\n</div><div> \n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div> \n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div> \n</div><div>\n</div><div>\n</div><div>\n</div><div> \n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div></div>\n        </div>\n    </div>\n</section>",
+          "_isUserblock": true,
+          "_cid": "te6HE1dHBI",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "content1-kt"
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor"
+          },
+          "_name": "content8",
+          "_sourceTheme": "mobirise4",
+          "_customHTML": "<section class=\"mbr-section content8\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"color\" title=\"Backgroud Color\" name=\"bgColor\" value=\"#faf6bb\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row title\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"mbr-section-btn align-center\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-success\" href=\"join-us.html\" data-app-placeholder=\"Type Text\"><span class=\"mobi-mbri mobi-mbri-users mbr-iconfont mbr-iconfont-btn\"></span><span style=\"font-weight: bold;\">JOIN US</span></a></div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_isUserblock": true,
+          "_cid": "te6HE2gBlM",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "content8-ku"
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            ".content": {
+              "@media (max-width: 767px)": {
+                "text-align": "center",
+                "> div:not(:last-child)": {
+                  "margin-bottom": "2rem"
+                }
+              }
+            },
+            ".media-wrap": {
+              "@media (max-width: 767px)": {
+                "margin-bottom": "1rem"
+              },
+              ".mbr-iconfont-logo": {
+                "font-size": "7.5rem",
+                "color": "#f36"
+              },
+              "img": {
+                "height": "6rem",
+                "display": "block",
+                "width": "auto"
+              }
+            },
+            ".footer-lower": {
+              ".copyright": {
+                "@media (max-width: 767px)": {
+                  "margin-bottom": "1rem",
+                  "text-align": "center"
+                }
+              },
+              "hr": {
+                "margin": "1rem 0",
+                "border-color": "#fff",
+                "opacity": ".05"
+              },
+              ".social-list": {
+                "padding-left": "0",
+                "margin-bottom": "0",
+                "list-style": "none",
+                "display": "flex",
+                "-webkit-flex-wrap": "wrap",
+                "flex-wrap": "wrap",
+                "-webkit-justify-content": "flex-end",
+                "justify-content": "flex-end",
+                ".mbr-iconfont-social": {
+                  "font-size": "1.3rem",
+                  "color": "#fff"
+                },
+                ".soc-item": {
+                  "margin": "0 .5rem"
+                },
+                "a": {
+                  "margin": "0",
+                  "opacity": ".5",
+                  "-webkit-transition": ".2s linear",
+                  "transition": ".2s linear",
+                  "&:hover": {
+                    "opacity": "1"
+                  }
+                },
+                "@media (max-width: 767px)": {
+                  "-webkit-justify-content": "center",
+                  "justify-content": "center"
+                }
+              }
+            },
+            "P": {
+              "text-align": "left",
+              "color": "#ffffff"
+            }
+          },
+          "_name": "footer1",
+          "_sourceTheme": "mobirise4",
+          "_customHTML": "<section group=\"Footers\" mbr-class=\"{'mbr-reveal': reveal, 'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->  \n        <input type=\"range\" inline=\"\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline=\"\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"checkbox\" title=\"Show Copyright\" name=\"showCopyright\" checked=\"\">\n        <select title=\"Icons\" name=\"iconsCount\">\n            <option value=\"0\">0</option>\n            <option value=\"1\">1</option>\n            <option value=\"2\">2</option>\n            <option value=\"3\" selected=\"\">3</option>\n            <option value=\"4\">4</option>\n            <option value=\"5\">5</option>\n            <option value=\"6\">6</option>\n        </select>\n        <input type=\"checkbox\" title=\"Reveal effect\" name=\"reveal\">\n        <fieldset type=\"background\" name=\"bg\" parallax=\"\">\n            <input type=\"image\" title=\"Background Image\" value=\"\">\n            <input type=\"color\" title=\"Background Color\" value=\"#2e2e2e\" selected=\"\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked=\"\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#232323\" condition=\"overlay &amp;&amp; bg.type !== 'color'\">\n        <input type=\"range\" inline=\"\" title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.8\" condition=\"overlay &amp;&amp; bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay &amp;&amp; bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n    <div class=\"container\">\n        <div class=\"media-container-row content text-white\">\n            <div class=\"col-12 col-md-3\">\n                <div class=\"media-wrap\">\n                    <a href=\"index.html\">\n                        <img src=\"@PROJECT_PATH@/assets/images/logo-1500px-white-on-gray-244x244.png\" alt=\"Mobirise\">\n                    </a>\n                </div>\n            </div>\n            <div class=\"col-12 col-md-3 mbr-fonts-style\" mbr-theme-style=\"display-7\">\n                <h5 class=\"pb-3\">Profit Through Ethics</h5>\n                <p class=\"mbr-text\">Responsible 100 is delivered by Profit Through Ethics Ltd., a business registered in England with company number 4769798.<br>All Rights Reserved.</p>\n            </div>\n            <div class=\"col-12 col-md-3 mbr-fonts-style\" mbr-theme-style=\"display-7\">\n                <h5 class=\"pb-3\">Contact details</h5>\n                <p class=\"mbr-text\">Email: info@responsible100.com<br>Phone: +44 (0)20 3372 4504<br><a href=\"contact-us.html\" class=\"text-primary\">Contact Form</a><br></p>\n            </div>\n            <div class=\"col-12 col-md-3 mbr-fonts-style\" mbr-theme-style=\"display-7\">\n                <h5 class=\"pb-3\">\n                    Site Map</h5>\n                <p class=\"mbr-text\"><a href=\"7-steps.html\" class=\"text-primary\">7 Step Process</a><br><a href=\"page11.html\" class=\"text-primary\">20 Responsibility Issues</a><br><a href=\"about.html\" class=\"text-primary\">About</a><br><a href=\"get-started.html\" class=\"text-primary\">Get started (orgs)</a><br><a href=\"join-us.html\" class=\"text-primary\">Join us (people)</a><br><a href=\"benchmarks.html\" class=\"text-primary\">Benchmarks</a><br><a href=\"workshops.html\" class=\"text-primary\">Workshops</a><br></p>\n            </div>\n        </div>\n        <div class=\"footer-lower\" mbr-if=\"showCopyright\">\n            <div class=\"media-container-row\">\n                <div class=\"col-sm-12\">\n                    <hr>\n                </div>\n            </div>\n            <div class=\"media-container-row mbr-white\">\n                <div class=\"col-sm-6 copyright\">\n                    <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".copyright > p\">\n                        © Copyright 2022 Profit Through Ethics Ltd.</p>\n                </div>\n                <div class=\"col-md-6\">\n                    <div class=\"social-list align-right\" mbr-if=\"iconsCount > 0\">\n                        <div class=\"soc-item\" mbr-if=\"iconsCount>0\">\n                            <a href=\"https://twitter.com/responsible100\" target=\"_blank\">\n                                <span mbr-icon=\"\" class=\"mbr-iconfont mbr-iconfont-social socicon-twitter socicon\"></span>\n                            </a>\n                        </div>\n                        <div class=\"soc-item\" mbr-if=\"iconsCount>1\">\n                            <a href=\"https://www.facebook.com/Responsible100/\" target=\"_blank\">\n                                <span mbr-icon=\"\" class=\"mbr-iconfont mbr-iconfont-social socicon-facebook socicon\"></span>\n                            </a>\n                        </div>\n                        <div class=\"soc-item\" mbr-if=\"iconsCount>2\">\n                            <a href=\"https://www.linkedin.com/groups/4170630/\" target=\"_blank\">\n                                <span mbr-icon=\"\" class=\"mbr-iconfont mbr-iconfont-social socicon-linkedin socicon\"></span>\n                            </a>\n                        </div>\n                        <div class=\"soc-item\" mbr-if=\"iconsCount>3\">\n                            <a href=\"https://instagram.com/mobirise\" target=\"_blank\">\n                                <span mbr-icon=\"\" class=\"socicon-instagram socicon mbr-iconfont mbr-iconfont-social\"></span>\n                            </a>\n                        </div>\n                        <div class=\"soc-item\" mbr-if=\"iconsCount>4\">\n                            <a href=\"https://plus.google.com/u/0/+Mobirise\" target=\"_blank\">\n                                <span mbr-icon=\"\" class=\"socicon-googleplus socicon mbr-iconfont mbr-iconfont-social\"></span>\n                            </a>\n                        </div>\n                        <div class=\"soc-item\" mbr-if=\"iconsCount>5\">\n                            <a href=\"https://www.behance.net/Mobirise\" target=\"_blank\">\n                                <span mbr-icon=\"\" class=\"socicon-behance socicon mbr-iconfont mbr-iconfont-social\"></span>\n                            </a>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_isUserblock": true,
+          "_cid": "te6HE2SftJ",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "footer1-kv"
         }
       ]
     }
