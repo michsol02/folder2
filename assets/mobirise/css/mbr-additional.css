@@ -6446,16 +6446,19 @@ section.lazy-placeholder:after {
 .cid-te6bT9WmnV .mbr-text {
   color: #465052;
 }
-.cid-te6bUnXUZl {
-  padding-top: 30px;
+.cid-te6klDm654 {
+  padding-top: 15px;
   padding-bottom: 45px;
   background-color: #ffffff;
 }
-.cid-te6bUnXUZl .mbr-text,
-.cid-te6bUnXUZl blockquote {
+.cid-te6klDm654 .mbr-text,
+.cid-te6klDm654 blockquote {
   color: #767676;
 }
-.cid-te6bUnXUZl .mbr-text {
+.cid-te6klDm654 .mbr-text DIV {
+  text-align: left;
+}
+.cid-te6klDm654 .mbr-text {
   color: #465052;
 }
 .cid-sPGLI3keup {
