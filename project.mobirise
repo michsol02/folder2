@@ -18535,7 +18535,7 @@
         {
           "_customTemplate": true,
           "_afterNavbarItem": false,
-          "_customHTML": "<div data-tf-widget=\"a0tFw51T\" data-tf-opacity=\"100\" data-tf-hide-headers=\"\" data-tf-iframe-props=\"title=Local Communities Benchmark Survey\" data-tf-transitive-search-params=\"\" data-tf-medium=\"snippet\" style=\"width:100%;height:500px;\"></div>[JS_CODE_0]",
+          "_customHTML": "<div data-tf-widget=\"a0tFw51T\" data-tf-opacity=\"100\" data-tf-hide-headers=\"\" data-tf-iframe-props=\"title=Local Communities Benchmark Survey\" data-tf-transitive-search-params=\"\" data-tf-medium=\"snippet\" style=\"width:100%;height:400px;\"></div>[JS_CODE_0]",
           "_customCSS": "/* Type valid CSS here */\n",
           "alias": "code-editor",
           "_tags": [
