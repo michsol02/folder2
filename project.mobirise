@@ -46,7 +46,7 @@
         "url": "https://fonts.googleapis.com/css?family=Rubik:300,400,500,600,700,800,900,300i,400i,500i,600i,700i,800i,900i"
       }
     ],
-    "uniqCompNum": 1781,
+    "uniqCompNum": 1783,
     "versionPublish": "5.8.14",
     "imageResize": true,
     "favicon": false,
@@ -18507,35 +18507,9 @@
           "_params": {}
         },
         {
-          "alias": false,
-          "_styles": {
-            "padding-top": "(@paddingTop * 15px)",
-            "padding-bottom": "(@paddingBottom * 15px)",
-            "background-color": "@bgColor",
-            ".mbr-text, blockquote": {
-              "color": "#767676"
-            },
-            ".mbr-text": {
-              "color": "#465052"
-            }
-          },
-          "_name": "content1",
-          "_sourceTheme": "mobirise4",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\">Use this tool to explore what it means to be POOR, OKAY, GOOD, or EXCELLENT in your approach to local communities.&nbsp;</div>\n        </div>\n    </div>\n</section>",
-          "_anchor": "content1-18r",
-          "_isUserblock": true,
-          "_cid": "tvmII37FWz",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {},
-          "_PHPplaceholders": [],
-          "_JSplaceholders": []
-        },
-        {
           "_customTemplate": true,
           "_afterNavbarItem": false,
-          "_customHTML": "<div data-tf-widget=\"a0tFw51T\" data-tf-opacity=\"100\" data-tf-hide-headers=\"\" data-tf-iframe-props=\"title=Local Communities Benchmark Survey\" data-tf-transitive-search-params=\"\" data-tf-auto-focus=\"\" data-tf-medium=\"snippet\" style=\"width:100%;height:600px;\"></div>[JS_CODE_0]",
+          "_customHTML": "<div data-tf-widget=\"a0tFw51T\" data-tf-opacity=\"100\" data-tf-hide-headers=\"\" data-tf-iframe-props=\"title=Local Communities Benchmark Survey\" data-tf-transitive-search-params=\"\" data-tf-medium=\"snippet\" style=\"width:100%;height:500px;\"></div>[JS_CODE_0]",
           "_customCSS": "/* Type valid CSS here */\n",
           "alias": "code-editor",
           "_tags": [
