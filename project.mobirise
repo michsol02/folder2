@@ -46,7 +46,7 @@
         "url": "https://fonts.googleapis.com/css?family=Rubik:300,400,500,600,700,800,900,300i,400i,500i,600i,700i,800i,900i"
       }
     ],
-    "uniqCompNum": 1784,
+    "uniqCompNum": 1785,
     "versionPublish": "5.8.14",
     "imageResize": true,
     "favicon": false,
@@ -20285,170 +20285,21 @@
           "_params": {}
         },
         {
-          "alias": false,
-          "_styles": {
-            "padding-top": "(@paddingTop * 15px)",
-            "padding-bottom": "(@paddingBottom * 15px)",
-            "background-color": "@bgColor",
-            ".mbr-text, blockquote": {
-              "color": "#767676"
-            },
-            ".mbr-text": {
-              "color": "#465052"
-            }
-          },
-          "_name": "content1",
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<div data-tf-widget=\"Cf2bRvkS\" data-tf-opacity=\"100\" data-tf-hide-headers=\"\" data-tf-iframe-props=\"title=Carbon Footprint Benchmark Survey\" data-tf-transitive-search-params=\"\" data-tf-medium=\"snippet\" style=\"width:100%;height:600px;\"></div>[JS_CODE_0]",
+          "_customCSS": "",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
           "_sourceTheme": "mobirise4",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\">Responsible 100 has developed a number of introductory questions for both managers and employees. Our short question sets enable these key stakeholders to explore this important responsibility issue, relevant to their organisation, and to begin to describe current practices and views. Please respond with as much relevant information as possible. Nothing you submit will be shared or published without your permission.</div>\n        </div>\n    </div>\n</section>",
-          "_anchor": "content1-194",
-          "_isUserblock": true,
-          "_cid": "tvnAV9XAVV",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
-        },
-        {
-          "alias": false,
-          "_styles": {
-            "padding-top": "(@paddingTop * 15px)",
-            "padding-bottom": "(@paddingBottom * 15px)",
-            "background-color": "@bgColor"
-          },
-          "_name": "content8",
-          "_sourceTheme": "mobirise4",
-          "_customHTML": "<section class=\"mbr-section content8\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Backgroud Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row title\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"mbr-section-btn align-center\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-warning\" href=\"https://forms.gle/nmGihwCoq1ReHxrb9\" data-app-placeholder=\"Type Text\"><strong>FOR MANAGERS</strong></a>\n                    <a class=\"btn btn-warning\" href=\"https://forms.gle/BMJFmvqJv4YefiaA6\" data-app-placeholder=\"Type Text\"><strong>FOR EMPLOYEES</strong></a></div>\n            </div>\n        </div>\n    </div>\n</section>",
-          "_anchor": "content8-195",
-          "_isUserblock": true,
-          "_cid": "tvnAWnxw5B",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
-        },
-        {
-          "alias": false,
-          "_styles": {
-            "padding-top": "(@paddingTop * 15px)",
-            "padding-bottom": "(@paddingBottom * 15px)",
-            "background-color": "@bgColor",
-            ".line": {
-              "background-color": "@lineColor",
-              "color": "@lineColor",
-              "align": "center",
-              "height": "2px",
-              "margin": "0 auto"
-            },
-            ".section-text": {
-              "padding": "2rem 0",
-              "text-align": "left",
-              "color": "#ffffff"
-            },
-            ".inner-container": {
-              "margin": "0 auto"
-            },
-            "@media (max-width: 768px)": {
-              ".inner-container": {
-                "width": "100% !important"
-              }
-            }
-          },
-          "_name": "content10",
-          "_sourceTheme": "mobirise4",
-          "_customHTML": "<section class=\"mbr-section article content10\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline=\"\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline=\"\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline=\"\" title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline=\"\" title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"10\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#55b4d4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#55b4d4\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-white mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".section-text\" mbr-text=\"\"><b>Benchmark Performance Statements</b></div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n    </div>\n</section>",
-          "_anchor": "content10-175",
-          "_isUserblock": true,
-          "_cid": "tvaTc37qXg",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
-        },
-        {
-          "alias": false,
-          "_styles": {
-            "padding-top": "(@paddingTop * 15px)",
-            "padding-bottom": "(@paddingBottom * 15px)",
-            "background-color": "@bgColor",
-            ".counter-container": {
-              "color": "#767676",
-              "ul": {
-                "margin-bottom": "0",
-                "li": {
-                  "margin-bottom": "1rem",
-                  "& when (@stylizedCounters)": {
-                    "list-style": "none",
-                    "position": "relative",
-                    "&:before": {
-                      "position": "absolute",
-                      "left": "-56px",
-                      "margin-top": "-10px",
-                      "padding-top": "3px",
-                      "content": "''",
-                      "display": "inline-block",
-                      "text-align": "center",
-                      "margin": "5px 10px",
-                      "line-height": "20px",
-                      "transition": "all .2s",
-                      "color": "contrast(@counterColor)",
-                      "background": "@counterColor",
-                      "width": "25px",
-                      "height": "25px",
-                      "border-radius": "50%",
-                      "& when (@countersType = 'circle')": {
-                        "background": "none",
-                        "border": "1px solid @counterColor",
-                        "color": "@counterColor"
-                      },
-                      "& when (@countersType = 'square')": {
-                        "border-radius": "0"
-                      },
-                      "& when (@mark)": {
-                        "content": "'✓'"
-                      }
-                    }
-                  }
-                }
-              }
-            },
-            ".mbr-text": {
-              "color": "#465052"
-            }
-          },
-          "_name": "content12",
-          "_sourceTheme": "mobirise4",
-          "_customHTML": "<section class=\"mbr-section article content12\">\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"checkbox\" title=\"Stylized Counters\" name=\"stylizedCounters\" checked>\n        <input type=\"color\" title=\"Counter Color\" name=\"counterColor\" value=\"#0b9ed0\" condition=\"stylizedCounters\">\n        <input type=\"checkbox\" title=\"Stylized Counters\" name=\"stylizedCounters\" checked>\n        <input type=\"checkbox\" title=\"Mark\" name=\"mark\" condition=\"stylizedCounters\">\n        <select title=\"Counters Type\" name=\"countersType\" condition=\"stylizedCounters\">\n            <option value=\"default\" selected>Сircle Fill</option>\n            <option value=\"circle\">Circle</option>\n            <option value=\"square\">Square</option>\n        </select>   \n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text counter-container col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article>\n                <ul>\n                    <li><b>EXCELLENT</b> - The business may exist to address climate change and/or market products or services which fundamentally reduce Scope 1, 2 and 3 emissions. Reducing its carbon footprint and catalysing the transition to the low carbon economy generally are both fundamental to overall strategy. The business is actively pursuing a range of credible and joined up policies and practices and considers its carbon footprint in all decision-making. The business further minimises its carbon footprint by using a sustainable bank, offering the greenest pension options to employees, buying sustainably, having an ethical energy supplier, and/or other such practices. The business is an advocate and campaigner on reducing GHGs, footprinting and efforts in pursuit of net zero. It is likely carbon neutral at least, and with a credible net zero plan which is complete and open to third party scrutiny. The business champions other environmentally responsible practices and always seizes opportunities to minimise its negative impacts on the environment.</li>\n                    <li><b>GOOD&nbsp;</b>- The business is aware of the benefits of decreasing its carbon footprint and is engaged in doing so. It has credible plans to become carbon neutral and net zero, but faces hurdles such as cost constraints and other, competing business priorities, which sometimes take priority. The business may not fully take solutions to reduce their carbon footprint such as using a sustainable bank, buying sustainably, having an ethical energy supplier etc. It is sometimes, but not always, a focal campaigner on environmental issues. It has robust plans to fundamentally reduce Scope 1 and 2 emissions, if not Scope 3.&nbsp;</li><li><b>OKAY</b> - The business engages in GHG reductions and environmentally friendly practices, but only on an ad hoc basis. Further, such practices are subordinate to cost and operational considerations. The business fails to demonstrate carbon literacy or a joined up strategy. Its  communication in regards to its Scope 1 and 2 emissions are limited, and likely non-existent for Scope 3 emissions. Or the business explains why this issue is neither relevant nor material to its operations.</li>\n                    <li><b>POOR&nbsp;</b>- The business fails to communicate the importance of measuring and reducing its carbon footprint. It fails to demonstrate that it understands this as a significant business issue and risk, nor its exposure to that risk. The business eschews GHG emissions reduction efforts and environmentally friendly practices and may even ridicule or belittle such actions. Its carbon footprint is considerable, yet the business fails to alleviate, mitigate or remediate this. The business ignores credible accusations that its practices and policies have negative impacts on the environment. It prioritises its self-interests and profitability over their environmental impact. It may be a climate change denier or fund groups sceptical of the scientific consensus on global heating.</li>\n                </ul>\n            </div>\n        </div>\n    </div>\n</section>",
-          "_anchor": "content12-176",
-          "_isUserblock": true,
-          "_cid": "tvaTdR4zRB",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
-        },
-        {
-          "alias": false,
-          "_styles": {
-            "padding-top": "(@paddingTop * 15px)",
-            "padding-bottom": "(@paddingBottom * 15px)",
-            "background-color": "@bgColor",
-            ".mbr-text, blockquote": {
-              "color": "#767676"
-            },
-            ".mbr-text": {
-              "color": "#465052"
-            }
-          },
-          "_name": "content1",
-          "_sourceTheme": "mobirise4",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline=\"\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline=\"\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline=\"\" title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline=\"\" mbr-article=\"\" mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p>Responsible 100 creates and develops detailed benchmarks on each of the issues we explore. <span style=\"font-size: 1rem;\">The above reveals only summaries of the current statements describing POOR, OKAY, GOOD and EXCELLENT performance standards. No policy nor practice examples are included here. The complete benchmarks are shared with organisations which, through offering answers to the above questions, help to shape and improve the benchmarks on an ongoing basis. Find out more about our benchmarks&nbsp;<a href=\"benchmarks.html\" class=\"text-primary\">here</a>.</span></p><div>\n</div><p></p></div>\n        </div>\n    </div>\n</section>",
-          "_anchor": "content1-196",
-          "_isUserblock": true,
-          "_cid": "tvnB3ajYmG",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
+          "_anchor": "custom-html-1dk",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [
+            "<script src=\"//embed.typeform.com/next/embed.js\"></script>"
+          ]
         },
         {
           "alias": false,
