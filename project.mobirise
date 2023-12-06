@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Dec 2023",
-    "currentPage": "index.html",
+    "currentPage": "partner-us.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -46,7 +46,7 @@
         "url": "https://fonts.googleapis.com/css?family=Rubik:300,400,500,600,700,800,900,300i,400i,500i,600i,700i,800i,900i"
       }
     ],
-    "uniqCompNum": 1820,
+    "uniqCompNum": 1837,
     "versionPublish": "5.6.13",
     "imageResize": true,
     "favicon": false,
@@ -567,7 +567,7 @@
           },
           "_name": "content8",
           "_sourceTheme": "mobirise4",
-          "_customHTML": "<section class=\"mbr-section content8\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"color\" title=\"Backgroud Color\" name=\"bgColor\" value=\"#e9effa\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row title\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"mbr-section-btn align-center\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-info\" href=\"simple-steps.html\" data-app-placeholder=\"Type Text\"><span class=\"mobi-mbri mobi-mbri-edit mbr-iconfont mbr-iconfont-btn\"></span><span style=\"font-weight: bold;\">SIMPLE STEPS</span></a></div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section content8\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"color\" title=\"Backgroud Color\" name=\"bgColor\" value=\"#e9effa\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row title\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"mbr-section-btn align-center\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-primary\" href=\"simple-steps.html\" data-app-placeholder=\"Type Text\"><span class=\"mobi-mbri mobi-mbri-edit mbr-iconfont mbr-iconfont-btn\"></span><span style=\"font-weight: bold;\">SIMPLE STEPS</span></a></div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_anchor": "content8-1cs",
           "_isUserblock": true,
           "_cid": "tGuTw95vAS",
@@ -1151,7 +1151,7 @@
               "color": "#767676"
             },
             ".mbr-text": {
-              "color": "#767676"
+              "color": "#4f4943"
             },
             ".mbr-text DIV": {
               "text-align": "center"
@@ -1159,37 +1159,10 @@
           },
           "_name": "content1",
           "_sourceTheme": "mobirise4",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><div>\n</div><div>Get started on your journey towards greater business responsibility with our free assessment to prioritise the issues most important to you. This exercise takes only 5-10 minutes to complete, after which we'll assess your results and send our comments to you within 2 working days, for free and without any obligation. Then, should you wish, we can continue the conversation and discuss developing a package of support bespoke to your needs.</div><div>\n</div><div>\n</div><div> \n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div> \n</div><div>\n</div><div> \n</div><div>\n</div><div>\n</div><div> \n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div> \n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div> \n</div><div>\n</div><div>\n</div><div>\n</div><div> \n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"3\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><div>\n</div><div><b>The value you will derive from participation, and the value you will create for the Responsible 100 community, is directly related to how many steps you take, and how many of the 22 issues you explore and assess against.</b></div><div>\n</div><div>\n</div><div> \n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div> \n</div><div>\n</div><div> \n</div><div>\n</div><div>\n</div><div> \n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div> \n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div> \n</div><div>\n</div><div>\n</div><div>\n</div><div> \n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div></div>\n        </div>\n    </div>\n</section>",
           "_anchor": "content1-kw",
           "_isUserblock": true,
           "_cid": "te791TWaU9",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
-        },
-        {
-          "alias": false,
-          "_styles": {
-            "& when not (@fullScreen)": {
-              "padding-top": "(@paddingTop * 15px)",
-              "padding-bottom": "(@paddingBottom * 15px)"
-            },
-            "& when (@bg-type = 'color')": {
-              "background-color": "@bg-value"
-            },
-            "& when (@bg-type = 'image')": {
-              "background-image": "url(@bg-value)"
-            },
-            "P": {
-              "color": "#767676"
-            }
-          },
-          "_name": "header16",
-          "_customHTML": "<section class=\"header1\" group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-fullscreen': fullScreen,\n                    'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"0\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"3\" condition=\"fullScreen == false\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\">\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubTitle\">\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\">\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\" checked>\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/background4.jpg\" parallax>\n            <input type=\"color\" title=\"Background Color\" value=\"#ffffff\" selected>\n            <input type=\"video\" title=\"Background Video\" value=\"https://www.youtube.com/watch?v=36YgDDJ7XSc\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#232323\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.6\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container\">\n        <div class=\"row justify-content-md-center\">\n            <div class=\"col-md-10 align-center\">\n                <h1 class=\"mbr-section-title mbr-bold pb-3 mbr-fonts-style\" mbr-theme-style=\"display-1\" mbr-if=\"showTitle\">\n                    FULL WIDTH INTRO\n                </h1>\n                <h3 class=\"mbr-section-subtitle mbr-light pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showSubTitle\">\n                    Beautiful mobile websites\n                </h3>\n                <p class=\"mbr-text pb-3 mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\"></p>\n                <div mbr-buttons mbr-theme-style=\"display-7\" class=\"mbr-section-btn\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-md btn-warning\" href=\"https://mailchi.mp/9e993d8e93aa/r100_newsletter_signup\" data-app-placeholder=\"Type Text\" target=\"_blank\"><span class=\"mbri-rocket mbr-iconfont mbr-iconfont-btn\"></span><span style=\"font-weight: bold;\">GET STARTED: FREE ASSESSMENT</span></a></div>\n            </div>\n        </div>\n    </div>\n\n</section>",
-          "_cid": "s9xbbtQcIm",
-          "_anchor": "header16-30",
-          "_sourceTheme": "mobirise4",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
@@ -1224,7 +1197,7 @@
           },
           "_name": "content10",
           "_sourceTheme": "mobirise4",
-          "_customHTML": "<section class=\"mbr-section article content10\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"10\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#e9effa\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#e9effa\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-white mbr-fonts-style\" mbr-theme-style=\"display-2\" data-app-selector=\".section-text\" mbr-text><b>INDIVIDUALS</b></div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content10\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"10\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#e9effa\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#e9effa\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-white mbr-fonts-style\" mbr-theme-style=\"display-2\" data-app-selector=\".section-text\" mbr-text><b>1. PRIORITISE</b></div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n    </div>\n</section>",
           "_anchor": "content10-1b1",
           "_isUserblock": true,
           "_cid": "tBoul9cW0g",
@@ -1239,50 +1212,49 @@
             "padding-top": "(@paddingTop * 15px)",
             "padding-bottom": "(@paddingBottom * 15px)",
             "background-color": "@bgColor",
-            ".mbr-text, blockquote": {
-              "color": "#767676"
+            "& when (@reverseContent)": {
+              "@media (min-width: 992px)": {
+                ".mbr-figure": {
+                  "padding-left": "4rem"
+                }
+              },
+              "@media (max-width: 992px)": {
+                ".mbr-figure": {
+                  "padding-top": "1rem"
+                }
+              }
+            },
+            "& when not (@reverseContent)": {
+              ".media-container-row": {
+                "flex-direction": "row-reverse",
+                "-webkit-flex-direction": "row-reverse"
+              },
+              "@media (min-width: 992px)": {
+                ".mbr-figure": {
+                  "padding-right": "4rem"
+                }
+              },
+              "@media (max-width: 991px)": {
+                ".media-container-row": {
+                  "flex-wrap": "wrap-reverse",
+                  "-webkit-flex-wrap": "wrap-reverse"
+                },
+                ".mbr-figure": {
+                  "padding-bottom": "1rem"
+                }
+              }
             },
             ".mbr-text": {
-              "color": "#767676"
-            },
-            ".mbr-text DIV": {
-              "text-align": "center"
+              "color": "#767676",
+              "text-align": "left"
             }
           },
-          "_name": "content1",
+          "_name": "content7",
           "_sourceTheme": "mobirise4",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><div>\n</div><div>Responsible 100 will run on responsible business data and people power! Please join us if, as a consumer, employee, investor, or as a citizen and neighbour, you have views and opinions on businesses and on responsible - and irresponsible - business practices. Click the button below to join our LinkedIn group.</div><div>\n</div><div>\n</div><div> \n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div> \n</div><div>\n</div><div> \n</div><div>\n</div><div>\n</div><div> \n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div> \n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div> \n</div><div>\n</div><div>\n</div><div>\n</div><div> \n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div></div>\n        </div>\n    </div>\n</section>",
-          "_anchor": "content1-1b6",
+          "_customHTML": "<section class=\"mbr-section content7\" group=\"Article\">\n          \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->   \n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Media Size\" name=\"mediaSize\" min=\"10\" max=\"200\" step=\"5\" value=\"170\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"4\">\n        <input type=\"checkbox\" title=\"Text On Right/Left\" name=\"reverseContent\"> \n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"col-12\" mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\">\n                <div class=\"media-container-row\">\n                    <div class=\"media-content\">\n                        <div class=\"mbr-section-text\">\n                            <p class=\"mbr-text align-right mb-0 mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-text\"><b>PRIORITISE</b><br><br>We currently look at 22 responsibility issues. They can't all be CRITICAL. So, firstly, indicate the priority level of each issue as you see it for your company.&nbsp;<br><br>This is something one person can do, or something the whole team can be involved in.&nbsp;</p>\n                        </div>\n                    </div>\n                    <div class=\"mbr-figure\" mbr-style=\"{'width': mediaSize + '%'}\">\n                     <img src=\"@PROJECT_PATH@/assets/images/2222-864x635.png\" alt=\"Mobirise\">  \n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "content7-1ek",
           "_isUserblock": true,
-          "_cid": "tBowp4sEwu",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
-        },
-        {
-          "alias": false,
-          "_styles": {
-            "& when not (@fullScreen)": {
-              "padding-top": "(@paddingTop * 15px)",
-              "padding-bottom": "(@paddingBottom * 15px)"
-            },
-            "& when (@bg-type = 'color')": {
-              "background-color": "@bg-value"
-            },
-            "& when (@bg-type = 'image')": {
-              "background-image": "url(@bg-value)"
-            },
-            "P": {
-              "color": "#767676"
-            }
-          },
-          "_name": "header16",
-          "_sourceTheme": "mobirise4",
-          "_customHTML": "<section class=\"header1\" group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-fullscreen': fullScreen,\n                    'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"0\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"3\" condition=\"fullScreen == false\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\">\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubTitle\">\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\">\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\" checked>\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/background4.jpg\" parallax>\n            <input type=\"color\" title=\"Background Color\" value=\"#ffffff\" selected>\n            <input type=\"video\" title=\"Background Video\" value=\"https://www.youtube.com/watch?v=36YgDDJ7XSc\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#232323\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.6\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container\">\n        <div class=\"row justify-content-md-center\">\n            <div class=\"col-md-10 align-center\">\n                <h1 class=\"mbr-section-title mbr-bold pb-3 mbr-fonts-style\" mbr-theme-style=\"display-1\" mbr-if=\"showTitle\">\n                    FULL WIDTH INTRO\n                </h1>\n                <h3 class=\"mbr-section-subtitle mbr-light pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showSubTitle\">\n                    Beautiful mobile websites\n                </h3>\n                <p class=\"mbr-text pb-3 mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\"></p>\n                <div mbr-buttons mbr-theme-style=\"display-7\" class=\"mbr-section-btn\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-md btn-success\" href=\"https://www.linkedin.com/groups/4170630/\" data-app-placeholder=\"Type Text\" target=\"_blank\"><span class=\"socicon socicon-invision mbr-iconfont mbr-iconfont-btn\"></span><span style=\"font-weight: bold;\">JOIN OUR LINKED IN GROUP</span></a></div>\n            </div>\n        </div>\n    </div>\n\n</section>",
-          "_anchor": "header16-1b7",
-          "_isUserblock": true,
-          "_cid": "tBowpMkHqo",
+          "_cid": "tXEvSRoxc0",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
@@ -1317,7 +1289,7 @@
           },
           "_name": "content10",
           "_sourceTheme": "mobirise4",
-          "_customHTML": "<section class=\"mbr-section article content10\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"10\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#e9effa\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#e9effa\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-white mbr-fonts-style\" mbr-theme-style=\"display-2\" data-app-selector=\".section-text\" mbr-text><b>EXPERT PARTNERS</b></div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content10\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"10\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#e9effa\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#e9effa\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-white mbr-fonts-style\" mbr-theme-style=\"display-2\" data-app-selector=\".section-text\" mbr-text><b>2. EXPLORE</b></div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n    </div>\n</section>",
           "_anchor": "content10-1b3",
           "_isUserblock": true,
           "_cid": "tBoupc7JsC",
@@ -1332,22 +1304,49 @@
             "padding-top": "(@paddingTop * 15px)",
             "padding-bottom": "(@paddingBottom * 15px)",
             "background-color": "@bgColor",
-            ".mbr-text, blockquote": {
-              "color": "#767676"
+            "& when (@reverseContent)": {
+              "@media (min-width: 992px)": {
+                ".mbr-figure": {
+                  "padding-left": "4rem"
+                }
+              },
+              "@media (max-width: 992px)": {
+                ".mbr-figure": {
+                  "padding-top": "1rem"
+                }
+              }
+            },
+            "& when not (@reverseContent)": {
+              ".media-container-row": {
+                "flex-direction": "row-reverse",
+                "-webkit-flex-direction": "row-reverse"
+              },
+              "@media (min-width: 992px)": {
+                ".mbr-figure": {
+                  "padding-right": "4rem"
+                }
+              },
+              "@media (max-width: 991px)": {
+                ".media-container-row": {
+                  "flex-wrap": "wrap-reverse",
+                  "-webkit-flex-wrap": "wrap-reverse"
+                },
+                ".mbr-figure": {
+                  "padding-bottom": "1rem"
+                }
+              }
             },
             ".mbr-text": {
-              "color": "#767676"
-            },
-            ".mbr-text DIV": {
-              "text-align": "center"
+              "color": "#767676",
+              "text-align": "left"
             }
           },
-          "_name": "content1",
+          "_name": "content7",
           "_sourceTheme": "mobirise4",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><div>\n</div><div>We have a proud record of working with some of the best NGOs and campaign groups out there. By partnering with Responsible 100, expert people and organisations can help drive positive change in business and create a more sustainable future for nature and communities alike.</div><div>\n</div><div>\n</div><div> \n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div> \n</div><div>\n</div><div> \n</div><div>\n</div><div>\n</div><div> \n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div> \n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div> \n</div><div>\n</div><div>\n</div><div>\n</div><div> \n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div></div>\n        </div>\n    </div>\n</section>",
-          "_anchor": "content1-1b4",
+          "_customHTML": "<section class=\"mbr-section content7\" group=\"Article\">\n          \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->   \n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Media Size\" name=\"mediaSize\" min=\"10\" max=\"200\" step=\"5\" value=\"170\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"4\">\n        <input type=\"checkbox\" title=\"Text On Right/Left\" name=\"reverseContent\"> \n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"col-12\" mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\">\n                <div class=\"media-container-row\">\n                    <div class=\"media-content\">\n                        <div class=\"mbr-section-text\">\n                            <p class=\"mbr-text align-right mb-0 mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-text\"><b>EXPLORE THE BENCHMARKS<br></b><br>We've broken down all the issues we explore into bite sized pieces. <br><br>Select the examples of policies and practices that describe what you do, and indicate some of your reasons. In minutes, we'll help you paint an accurate picture of what happens in your business.&nbsp;</p>\n                        </div>\n                    </div>\n                    <div class=\"mbr-figure\" mbr-style=\"{'width': mediaSize + '%'}\">\n                     <img src=\"@PROJECT_PATH@/assets/images/step-2-1139x812.jpg\" alt=\"Mobirise\">  \n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "content7-1el",
           "_isUserblock": true,
-          "_cid": "tBovvj3UW3",
+          "_cid": "tXEvTBxvFU",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
@@ -1356,26 +1355,292 @@
         {
           "alias": false,
           "_styles": {
-            "& when not (@fullScreen)": {
-              "padding-top": "(@paddingTop * 15px)",
-              "padding-bottom": "(@paddingBottom * 15px)"
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".line": {
+              "background-color": "@lineColor",
+              "color": "@lineColor",
+              "align": "center",
+              "height": "2px",
+              "margin": "0 auto"
             },
-            "& when (@bg-type = 'color')": {
-              "background-color": "@bg-value"
+            ".section-text": {
+              "padding": "2rem 0",
+              "text-align": "left",
+              "color": "#e70941"
             },
-            "& when (@bg-type = 'image')": {
-              "background-image": "url(@bg-value)"
+            ".inner-container": {
+              "margin": "0 auto"
             },
-            "P": {
-              "color": "#767676"
+            "@media (max-width: 768px)": {
+              ".inner-container": {
+                "width": "100% !important"
+              }
             }
           },
-          "_name": "header16",
+          "_name": "content10",
           "_sourceTheme": "mobirise4",
-          "_customHTML": "<section class=\"header1\" group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-fullscreen': fullScreen,\n                    'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"0\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"3\" condition=\"fullScreen == false\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\">\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubTitle\">\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\">\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\" checked>\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/background4.jpg\" parallax>\n            <input type=\"color\" title=\"Background Color\" value=\"#ffffff\" selected>\n            <input type=\"video\" title=\"Background Video\" value=\"https://www.youtube.com/watch?v=36YgDDJ7XSc\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#232323\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.6\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container\">\n        <div class=\"row justify-content-md-center\">\n            <div class=\"col-md-10 align-center\">\n                <h1 class=\"mbr-section-title mbr-bold pb-3 mbr-fonts-style\" mbr-theme-style=\"display-1\" mbr-if=\"showTitle\">\n                    FULL WIDTH INTRO\n                </h1>\n                <h3 class=\"mbr-section-subtitle mbr-light pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showSubTitle\">\n                    Beautiful mobile websites\n                </h3>\n                <p class=\"mbr-text pb-3 mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\"></p>\n                <div mbr-buttons mbr-theme-style=\"display-7\" class=\"mbr-section-btn\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-md btn-warning\" href=\"partner-us.html\" data-app-placeholder=\"Type Text\"><span class=\"mbrib-users mbr-iconfont mbr-iconfont-btn\"></span><span style=\"font-weight: bold;\">FIND OUT MORE</span></a></div>\n            </div>\n        </div>\n    </div>\n\n</section>",
-          "_anchor": "header16-1b5",
+          "_customHTML": "<section class=\"mbr-section article content10\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"10\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#e9effa\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#e9effa\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-white mbr-fonts-style\" mbr-theme-style=\"display-2\" data-app-selector=\".section-text\" mbr-text><b>3. SAY IT SIMPLY</b></div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n    </div>\n</section>",
+          "_anchor": "content10-1en",
           "_isUserblock": true,
-          "_cid": "tBovxJZhMq",
+          "_cid": "tXEAO3UP6z",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            "& when (@reverseContent)": {
+              "@media (min-width: 992px)": {
+                ".mbr-figure": {
+                  "padding-left": "4rem"
+                }
+              },
+              "@media (max-width: 992px)": {
+                ".mbr-figure": {
+                  "padding-top": "1rem"
+                }
+              }
+            },
+            "& when not (@reverseContent)": {
+              ".media-container-row": {
+                "flex-direction": "row-reverse",
+                "-webkit-flex-direction": "row-reverse"
+              },
+              "@media (min-width: 992px)": {
+                ".mbr-figure": {
+                  "padding-right": "4rem"
+                }
+              },
+              "@media (max-width: 991px)": {
+                ".media-container-row": {
+                  "flex-wrap": "wrap-reverse",
+                  "-webkit-flex-wrap": "wrap-reverse"
+                },
+                ".mbr-figure": {
+                  "padding-bottom": "1rem"
+                }
+              }
+            },
+            ".mbr-text": {
+              "color": "#767676",
+              "text-align": "left"
+            }
+          },
+          "_name": "content7",
+          "_sourceTheme": "mobirise4",
+          "_customHTML": "<section class=\"mbr-section content7\" group=\"Article\">\n          \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->   \n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Media Size\" name=\"mediaSize\" min=\"10\" max=\"200\" step=\"5\" value=\"140\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"4\">\n        <input type=\"checkbox\" title=\"Text On Right/Left\" name=\"reverseContent\"> \n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"col-12\" mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\">\n                <div class=\"media-container-row\">\n                    <div class=\"media-content\">\n                        <div class=\"mbr-section-text\">\n                            <p class=\"mbr-text align-right mb-0 mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-text\"><b>SAY IT SIMPLY&nbsp;</b><br><br>We use AI to create draft accounts of what you do based on the selections you make in Step 2.<br><br>It takes only a matter of minutes to do this and to thus get you started.<br><br>But ultimately, you must be satisfied that your responses are complete, accurate and verifiable. Your account of what you do, and your future plans, must be your own accounts in your words.&nbsp;</p>\n                        </div>\n                    </div>\n                    <div class=\"mbr-figure\" mbr-style=\"{'width': mediaSize + '%'}\">\n                     <img src=\"@PROJECT_PATH@/assets/images/better-space-in-speech-bubble-675x621.jpg\" alt=\"Mobirise\">  \n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "content7-1eo",
+          "_isUserblock": true,
+          "_cid": "tXEAUcWo60",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".line": {
+              "background-color": "@lineColor",
+              "color": "@lineColor",
+              "align": "center",
+              "height": "2px",
+              "margin": "0 auto"
+            },
+            ".section-text": {
+              "padding": "2rem 0",
+              "text-align": "left",
+              "color": "#e70941"
+            },
+            ".inner-container": {
+              "margin": "0 auto"
+            },
+            "@media (max-width: 768px)": {
+              ".inner-container": {
+                "width": "100% !important"
+              }
+            }
+          },
+          "_name": "content10",
+          "_sourceTheme": "mobirise4",
+          "_customHTML": "<section class=\"mbr-section article content10\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"10\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#e9effa\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#e9effa\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-white mbr-fonts-style\" mbr-theme-style=\"display-2\" data-app-selector=\".section-text\" mbr-text><b>4. SCORE</b></div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n    </div>\n</section>",
+          "_anchor": "content10-1ep",
+          "_isUserblock": true,
+          "_cid": "tXEB51YceQ",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            "& when (@reverseContent)": {
+              "@media (min-width: 992px)": {
+                ".mbr-figure": {
+                  "padding-left": "4rem"
+                }
+              },
+              "@media (max-width: 992px)": {
+                ".mbr-figure": {
+                  "padding-top": "1rem"
+                }
+              }
+            },
+            "& when not (@reverseContent)": {
+              ".media-container-row": {
+                "flex-direction": "row-reverse",
+                "-webkit-flex-direction": "row-reverse"
+              },
+              "@media (min-width: 992px)": {
+                ".mbr-figure": {
+                  "padding-right": "4rem"
+                }
+              },
+              "@media (max-width: 991px)": {
+                ".media-container-row": {
+                  "flex-wrap": "wrap-reverse",
+                  "-webkit-flex-wrap": "wrap-reverse"
+                },
+                ".mbr-figure": {
+                  "padding-bottom": "1rem"
+                }
+              }
+            },
+            ".mbr-text": {
+              "color": "#767676",
+              "text-align": "left"
+            }
+          },
+          "_name": "content7",
+          "_sourceTheme": "mobirise4",
+          "_customHTML": "<section class=\"mbr-section content7\" group=\"Article\">\n          \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->   \n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Media Size\" name=\"mediaSize\" min=\"10\" max=\"200\" step=\"5\" value=\"85\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"4\">\n        <input type=\"checkbox\" title=\"Text On Right/Left\" name=\"reverseContent\"> \n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"col-12\" mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\">\n                <div class=\"media-container-row\">\n                    <div class=\"media-content\">\n                        <div class=\"mbr-section-text\">\n                            <p class=\"mbr-text align-right mb-0 mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-text\"><b>SCORE YOURSELF</b><br><br>So, after all that, how well do you perform? <i>Really</i>?<br><br>We use the simplest scale. On each issue we explore we identify 4 performance levels: POOR, OKAY, GOOD and EXCELLENT.<br><br>In the event that we don't agree what level of performance you've achieved, no drama, we simply ask our expert partners to decide.&nbsp;</p>\n                        </div>\n                    </div>\n                    <div class=\"mbr-figure\" mbr-style=\"{'width': mediaSize + '%'}\">\n                     <img src=\"@PROJECT_PATH@/assets/images/lego-man-sort-709x538.jpg\" alt=\"Mobirise\">  \n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "content7-1eq",
+          "_isUserblock": true,
+          "_cid": "tXEB5WnxTt",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".line": {
+              "background-color": "@lineColor",
+              "color": "@lineColor",
+              "align": "center",
+              "height": "2px",
+              "margin": "0 auto"
+            },
+            ".section-text": {
+              "padding": "2rem 0",
+              "text-align": "left",
+              "color": "#e70941"
+            },
+            ".inner-container": {
+              "margin": "0 auto"
+            },
+            "@media (max-width: 768px)": {
+              ".inner-container": {
+                "width": "100% !important"
+              }
+            }
+          },
+          "_name": "content10",
+          "_sourceTheme": "mobirise4",
+          "_customHTML": "<section class=\"mbr-section article content10\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"10\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#e9effa\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#e9effa\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-white mbr-fonts-style\" mbr-theme-style=\"display-2\" data-app-selector=\".section-text\" mbr-text><b>5. REPEAT</b></div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n    </div>\n</section>",
+          "_anchor": "content10-1er",
+          "_isUserblock": true,
+          "_cid": "tXEB6H2pzG",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            "& when (@reverseContent)": {
+              "@media (min-width: 992px)": {
+                ".mbr-figure": {
+                  "padding-left": "4rem"
+                }
+              },
+              "@media (max-width: 992px)": {
+                ".mbr-figure": {
+                  "padding-top": "1rem"
+                }
+              }
+            },
+            "& when not (@reverseContent)": {
+              ".media-container-row": {
+                "flex-direction": "row-reverse",
+                "-webkit-flex-direction": "row-reverse"
+              },
+              "@media (min-width: 992px)": {
+                ".mbr-figure": {
+                  "padding-right": "4rem"
+                }
+              },
+              "@media (max-width: 991px)": {
+                ".media-container-row": {
+                  "flex-wrap": "wrap-reverse",
+                  "-webkit-flex-wrap": "wrap-reverse"
+                },
+                ".mbr-figure": {
+                  "padding-bottom": "1rem"
+                }
+              }
+            },
+            ".mbr-text": {
+              "color": "#767676",
+              "text-align": "left"
+            }
+          },
+          "_name": "content7",
+          "_sourceTheme": "mobirise4",
+          "_customHTML": "<section class=\"mbr-section content7\" group=\"Article\">\n          \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->   \n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Media Size\" name=\"mediaSize\" min=\"10\" max=\"200\" step=\"5\" value=\"170\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"4\">\n        <input type=\"checkbox\" title=\"Text On Right/Left\" name=\"reverseContent\"> \n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"col-12\" mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\">\n                <div class=\"media-container-row\">\n                    <div class=\"media-content\">\n                        <div class=\"mbr-section-text\">\n                            <p class=\"mbr-text align-right mb-0 mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-text\"><b>REPEAT&nbsp;</b><br><b><br></b>Your Responsibility Indicator combines all the above, across each of the issues, in one powerful dashboard.<br><br>Use it to set plans for future work and improvements and to keep track of progress.&nbsp;Use it to communicate the stories of what you do both internally, or externally. <br><br><br></p>\n                        </div>\n                    </div>\n                    <div class=\"mbr-figure\" mbr-style=\"{'width': mediaSize + '%'}\">\n                     <img src=\"@PROJECT_PATH@/assets/images/step-4-v4-1240x995.png\" alt=\"Mobirise\">  \n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "content7-1es",
+          "_isUserblock": true,
+          "_cid": "tXEB7cTEe0",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor"
+          },
+          "_name": "content8",
+          "_sourceTheme": "mobirise4",
+          "_customHTML": "<section class=\"mbr-section content8\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"color\" title=\"Backgroud Color\" name=\"bgColor\" value=\"#e9effa\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row title\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"mbr-section-btn align-center\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-success\" href=\"get-started.html\" data-app-placeholder=\"Type Text\"><span class=\"mobi-mbri mobi-mbri-users mbr-iconfont mbr-iconfont-btn\"></span><span style=\"font-weight: bold;\">WHY PARTNERS PARTNER US</span></a></div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "content8-1et",
+          "_isUserblock": true,
+          "_cid": "tXF2iHI63c",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
@@ -1936,7 +2201,7 @@
             }
           },
           "_name": "content10",
-          "_customHTML": "<section class=\"mbr-section article content10\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"6\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"10\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#e9effa\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#e9effa\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-white mbr-fonts-style\" mbr-theme-style=\"display-2\" data-app-selector=\".section-text\" mbr-text><b>PARTNER WITH US</b></div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content10\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"6\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"10\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#e9effa\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#e9effa\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-white mbr-fonts-style\" mbr-theme-style=\"display-2\" data-app-selector=\".section-text\" mbr-text><b>WHY PARTNERS PARTNER US</b></div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n    </div>\n</section>",
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
           "_cid": "sRulsfNWKJ",
@@ -1955,16 +2220,19 @@
             ".mbr-text, blockquote": {
               "color": "#767676"
             },
+            ".mbr-text P": {
+              "text-align": "center"
+            },
             ".mbr-text": {
               "color": "#465052"
             }
           },
           "_name": "content1",
           "_sourceTheme": "mobirise4",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p>Responsible 100 has enjoyed the support of hundreds of partner organisations over many years. People and organisations with genuine expertise on the issues we explore, and who share our passion for honing business as a force for good, have made incredible contributions and shown what real collaboration can achieve. We're currently establishing new partnerships and inviting previous supporters to join us again.&nbsp;&nbsp;</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><div>\n</div><p></p></div>\n        </div>\n    </div>\n</section>",
-          "_anchor": "content1-1b8",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"3\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p>Responsible 100 helps businesses to determine their exposure to a range of social, environmental and ethical issues, to assess and consider their current practices, and if and how they may improve.&nbsp;</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p></div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "content1-1f0",
           "_isUserblock": true,
-          "_cid": "tBoG0LsuKJ",
+          "_cid": "tXF66PEnmY",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
@@ -1999,134 +2267,10 @@
           },
           "_name": "content10",
           "_sourceTheme": "mobirise4",
-          "_customHTML": "<section class=\"mbr-section article content10\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"10\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#55b4d4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#55b4d4\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-white mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".section-text\" mbr-text><b>Benefits Of Partnership</b></div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n    </div>\n</section>",
-          "_anchor": "content10-1cg",
+          "_customHTML": "<section class=\"mbr-section article content10\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"10\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#55b4d4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#55b4d4\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-white mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".section-text\" mbr-text>MORE <b>TRANSPARENCY FROM MORE BUSINESSES</b> ON MORE ISSUES</div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n    </div>\n</section>",
+          "_anchor": "content10-1ew",
           "_isUserblock": true,
-          "_cid": "tBHhFAdsrw",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
-        },
-        {
-          "alias": false,
-          "_styles": {
-            "padding-top": "(@paddingTop * 15px)",
-            "padding-bottom": "(@paddingBottom * 15px)",
-            "background-color": "@bgColor",
-            ".counter-container": {
-              "color": "#767676",
-              "ul": {
-                "margin-bottom": "0",
-                "li": {
-                  "margin-bottom": "1rem",
-                  "& when (@stylizedCounters)": {
-                    "list-style": "none",
-                    "position": "relative",
-                    "&:before": {
-                      "position": "absolute",
-                      "left": "-56px",
-                      "margin-top": "-10px",
-                      "padding-top": "3px",
-                      "content": "''",
-                      "display": "inline-block",
-                      "text-align": "center",
-                      "margin": "5px 10px",
-                      "line-height": "20px",
-                      "transition": "all .2s",
-                      "color": "contrast(@counterColor)",
-                      "background": "@counterColor",
-                      "width": "25px",
-                      "height": "25px",
-                      "border-radius": "50%",
-                      "& when (@countersType = 'circle')": {
-                        "background": "none",
-                        "border": "1px solid @counterColor",
-                        "color": "@counterColor"
-                      },
-                      "& when (@countersType = 'square')": {
-                        "border-radius": "0"
-                      },
-                      "& when (@mark)": {
-                        "content": "'✓'"
-                      }
-                    }
-                  }
-                }
-              }
-            },
-            ".mbr-text": {
-              "color": "#465052"
-            }
-          },
-          "_name": "content12",
-          "_sourceTheme": "mobirise4",
-          "_customHTML": "<section class=\"mbr-section article content12\">\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"checkbox\" title=\"Stylized Counters\" name=\"stylizedCounters\" checked>\n        <input type=\"color\" title=\"Counter Color\" name=\"counterColor\" value=\"#0b9ed0\" condition=\"stylizedCounters\">\n        <input type=\"checkbox\" title=\"Stylized Counters\" name=\"stylizedCounters\" checked>\n        <input type=\"checkbox\" title=\"Mark\" name=\"mark\" condition=\"stylizedCounters\">\n        <select title=\"Counters Type\" name=\"countersType\" condition=\"stylizedCounters\">\n            <option value=\"default\" selected>Сircle Fill</option>\n            <option value=\"circle\">Circle</option>\n            <option value=\"square\">Square</option>\n        </select>   \n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text counter-container col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article>\n                <ul>\n                    <li><span style=\"font-size: 1rem;\"><b>Demonstrating leadership and ambition.</b>&nbsp;Responsible 100 operates at the cutting edge of business responsibility. Our aims and methods are unique. We offer unrivalled opportunities for partners committed to doing worthwhile work in ESG, CSR, impact and purpose, which have become increasingly crowded and confusing fields in recent years.</span><br></li><li><b>Shaping the benchmarks.</b> We categorise business performance on all the issues we explore as either POOR, OKAY, GOOD or EXCELLENT. Partners help develop and improve benchmarks working collaboratively. Our benchmarks constitute valuable resources. They help companies better understand how they perform now and where they can improve, and they inform policy.&nbsp;</li><li><b style=\"font-size: 1rem;\">Imagining EXCELLENT - and how to achieve it.</b><span style=\"font-size: 1rem;\">&nbsp;A unique opportunity in working on the benchmarks is to imagine and propose what is possible. Partners share responsibility for imagining tangible standards of EXCELLENT performance that companies could and should be striving for, issue by issue, and inspire and support them in achieving it.</span><br></li><li><b>Growing your knowledge</b>. Our model, and the relationships we broker between clients and partners, provide a continuous stream of new data and value. See <a href=\"about.html\" class=\"text-primary\">FAQ 3 here </a>for more information.</li><li>\n</li><li><b>Growing your network and influence.</b> We provide continuous networking opportunities with like-minded individuals and organisations. By partnering with Responsible 100, experts can help drive positive change and contribute to a more sustainable future for businesses and communities alike.</li>\n                </ul>\n            </div>\n        </div>\n    </div>\n</section>",
-          "_anchor": "content12-1cm",
-          "_isUserblock": true,
-          "_cid": "tBHpUv8mGl",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
-        },
-        {
-          "alias": false,
-          "_styles": {
-            "padding-top": "(@paddingTop * 15px)",
-            "padding-bottom": "(@paddingBottom * 15px)",
-            "background-color": "@bgColor",
-            ".line": {
-              "background-color": "@lineColor",
-              "color": "@lineColor",
-              "align": "center",
-              "height": "2px",
-              "margin": "0 auto"
-            },
-            ".section-text": {
-              "padding": "2rem 0",
-              "text-align": "left",
-              "color": "#ffffff"
-            },
-            ".inner-container": {
-              "margin": "0 auto"
-            },
-            "@media (max-width: 768px)": {
-              ".inner-container": {
-                "width": "100% !important"
-              }
-            }
-          },
-          "_name": "content10",
-          "_sourceTheme": "mobirise4",
-          "_customHTML": "<section class=\"mbr-section article content10\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"10\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#55b4d4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#55b4d4\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-white mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".section-text\" mbr-text><b>Educating And Inspiring Action&nbsp;&nbsp;</b></div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n    </div>\n</section>",
-          "_anchor": "content10-1cl",
-          "_isUserblock": true,
-          "_cid": "tBHoxhEJkf",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
-        },
-        {
-          "alias": false,
-          "_styles": {
-            "padding-top": "(@paddingTop * 15px)",
-            "padding-bottom": "(@paddingBottom * 15px)",
-            "background-color": "@bgColor",
-            ".mbr-text, blockquote": {
-              "color": "#767676"
-            },
-            ".mbr-text": {
-              "color": "#465052"
-            }
-          },
-          "_name": "content1",
-          "_sourceTheme": "mobirise4",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p>Albert Einstein apparently suggested that if you can't explain something to a six year old, then you don't fully understand it yourself. We encourage a similar approach when introducing and exploring the responsibility issues we explore to businesses of all sizes and sectors. We assume no prior knowledge. But we also assume unlimited potential to champion an issue when the rationales and opportunities to act are laid bare.</p><p>\n</p><div>\n</div><div>Our aim is to make it as easy as possible for businesses to reveal how they respond to a wide range of social, environmental and ethical challenges, to benefit themselves, and everyone else. The information we uncover includes the business’s awareness, knowledge and interest of an issue. We assess their exposure to risks and opportunities alike, and what they have done in the past, and what they might usefully do next.\n</div><div><br></div><div>Partners share responsibility for the creation and ongoing development of our methods of sharing and serving knowledge and expertise, and collecting further policy and practice examples from our participating businesses. Currently, our issues pages are currently broken down into 7 sections as follows:</div><div>\n</div><p></p></div>\n        </div>\n    </div>\n</section>",
-          "_anchor": "content1-1ck",
-          "_isUserblock": true,
-          "_cid": "tBHouh0dDk",
+          "_cid": "tXF3Lf9b6e",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
@@ -2177,34 +2321,10 @@
           },
           "_name": "content7",
           "_sourceTheme": "mobirise4",
-          "_customHTML": "<section class=\"mbr-section content7\" group=\"Article\">\n          \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->   \n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Media Size\" name=\"mediaSize\" min=\"10\" max=\"200\" step=\"5\" value=\"125\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"4\">\n        <input type=\"checkbox\" title=\"Text On Right/Left\" name=\"reverseContent\"> \n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"col-12\" mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\">\n                <div class=\"media-container-row\">\n                    <div class=\"media-content\">\n                        <div class=\"mbr-section-text\">\n                            <p class=\"mbr-text align-right mb-0 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\"><b>1.&nbsp;Introducing The Issue\n</b><br>An overview and a few sentences by way of introduction.<br>\n<br><b>2.&nbsp;Describe What You Currently Do - Questions FOR MANAGERS\n</b><br>Questions for managers to begin to assess current knowledge and practices in respect of the issue.\n<br>\n<br><b>3.&nbsp;Describe What You Currently Do -&nbsp;Questions&nbsp;FOR EMPLOYEES\n</b><br>Questions for employees to reflect on their current views on and engagement with the issue.<br>\n<br><b>4.&nbsp;Benchmark Performance Statements\n</b><br>Statements describing POOR, OKAY, GOOD and EXCELLENT business performance on the issue.&nbsp;We seek to define, and continually update, performance standards on all issues.  \n<br>\n<br><b>5.&nbsp;Exploring The Issue\n</b><br>We provide detailed explanations of each issue to support business's further learning.\n<br>\n<br><b>6.&nbsp;Definitions\n</b><br>We provide definitions of key technical terms (and jargon) related to the issue.\n<br>\n<br><b>7.&nbsp;Links, News &amp; Further Resources\n</b><br>We provide links to additional resources and news articles related to the issue.<br></p>\n                        </div>\n                    </div>\n                    <div class=\"mbr-figure\" mbr-style=\"{'width': mediaSize + '%'}\">\n                     <a href=\"Organisational-Culture.html\"><img src=\"@PROJECT_PATH@/assets/images/issues-pages-with-sections-numbered-2-984x1336.png\" alt=\"Mobirise\"></a>  \n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
-          "_anchor": "content7-1b9",
+          "_customHTML": "<section class=\"mbr-section content7\" group=\"Article\">\n          \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->   \n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Media Size\" name=\"mediaSize\" min=\"10\" max=\"200\" step=\"5\" value=\"170\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"4\">\n        <input type=\"checkbox\" title=\"Text On Right/Left\" name=\"reverseContent\"> \n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"col-12\" mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\">\n                <div class=\"media-container-row\">\n                    <div class=\"media-content\">\n                        <div class=\"mbr-section-text\">\n                            <p class=\"mbr-text align-right mb-0 mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-text\">Through our <a href=\"get-started.html\" class=\"text-primary\">SIMPLE STEPS</a> we enable businesses to understand and master their risks and opportunities, and maximise their potential to improve in the highest impact areas in the optimum time frame.&nbsp;&nbsp;</p>\n                        </div>\n                    </div>\n                    <div class=\"mbr-figure\" mbr-style=\"{'width': mediaSize + '%'}\">\n                     <img src=\"@PROJECT_PATH@/assets/images/story-in-your-ri-864x393.jpg\" alt=\"Mobirise\">  \n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "content7-1eu",
           "_isUserblock": true,
-          "_cid": "tBoG2z3aR6",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
-        },
-        {
-          "alias": false,
-          "_styles": {
-            "padding-top": "(@paddingTop * 15px)",
-            "padding-bottom": "(@paddingBottom * 15px)",
-            "background-color": "@bgColor",
-            ".mbr-text, blockquote": {
-              "color": "#767676"
-            },
-            ".mbr-text": {
-              "color": "#465052"
-            }
-          },
-          "_name": "content1",
-          "_sourceTheme": "mobirise4",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p>The contributions and involvement of partners are key elements of Responsible 100’s supported steps to guide businesses towards ever more responsible practices. The steps include prioritisation to determine the most important issues that businesses need to tackle. Then assessing how well the business currently performs, issue by issue. We later help businesses to set targets to improve that are achievable, measurable. We also support businesses in engaging their stakeholders to build trust and demonstrate their actions and commitments. Find out more about <a href=\"simple-steps.html\" class=\"text-primary\">our steps here</a>. \n</p><p>Beyond minimum requirements to display the Responsible 100 logo, our further steps include helping businesses to change and improve what they do. We offer office hours, workshops and training, with and without partners. For e.g. organisational culture, we have an expert partner in place already: the brilliant Alex Barker. Alex created a <a href=\"workshops.html\" class=\"text-primary\">4 module workshop series</a> to help companies explore and improve their culture. For e.g. mental health and wellbeing, we offer <a href=\"R100-Led-Workshops.html\" class=\"text-primary\">our own workshop for small teams</a>. We'll add more such workshops, support and resources in the coming months.&nbsp;</p><p>\n</p><p>\n</p><p>\n</p><p> \n</p><p>\n</p><p>\n</p><p>\n</p><div>\n</div><p></p></div>\n        </div>\n    </div>\n</section>",
-          "_anchor": "content1-1ba",
-          "_isUserblock": true,
-          "_cid": "tBoG3rSqNO",
+          "_cid": "tXF3DTzUcn",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
@@ -2239,10 +2359,10 @@
           },
           "_name": "content10",
           "_sourceTheme": "mobirise4",
-          "_customHTML": "<section class=\"mbr-section article content10\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"10\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#55b4d4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#55b4d4\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-white mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".section-text\" mbr-text><b>Previous Partners</b></div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n    </div>\n</section>",
-          "_anchor": "content10-1ch",
+          "_customHTML": "<section class=\"mbr-section article content10\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"10\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#55b4d4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#55b4d4\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-white mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".section-text\" mbr-text>KNOWLEDGE DRIVES <b>POWER FOR CHANGE&nbsp;</b></div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n    </div>\n</section>",
+          "_anchor": "content10-1ex",
           "_isUserblock": true,
-          "_cid": "tBHhI419yZ",
+          "_cid": "tXF3MMNggt",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
@@ -2254,103 +2374,49 @@
             "padding-top": "(@paddingTop * 15px)",
             "padding-bottom": "(@paddingBottom * 15px)",
             "background-color": "@bgColor",
-            ".mbr-text, blockquote": {
-              "color": "#767676"
+            "& when (@reverseContent)": {
+              "@media (min-width: 992px)": {
+                ".mbr-figure": {
+                  "padding-left": "4rem"
+                }
+              },
+              "@media (max-width: 992px)": {
+                ".mbr-figure": {
+                  "padding-top": "1rem"
+                }
+              }
+            },
+            "& when not (@reverseContent)": {
+              ".media-container-row": {
+                "flex-direction": "row-reverse",
+                "-webkit-flex-direction": "row-reverse"
+              },
+              "@media (min-width: 992px)": {
+                ".mbr-figure": {
+                  "padding-right": "4rem"
+                }
+              },
+              "@media (max-width: 991px)": {
+                ".media-container-row": {
+                  "flex-wrap": "wrap-reverse",
+                  "-webkit-flex-wrap": "wrap-reverse"
+                },
+                ".mbr-figure": {
+                  "padding-bottom": "1rem"
+                }
+              }
             },
             ".mbr-text": {
-              "color": "#465052"
+              "color": "#767676",
+              "text-align": "left"
             }
           },
-          "_name": "content1",
+          "_name": "content7",
           "_sourceTheme": "mobirise4",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\">Over many years, we've worked with a wide range of campaigners and civil society organisations to explore responsibility issues and try to understand business responses and performance. Some of the organisations that supported our workshops and efforts to develop and improve our benchmarks are shown in the below:</div>\n        </div>\n    </div>\n</section>",
-          "_anchor": "content1-1cj",
+          "_customHTML": "<section class=\"mbr-section content7\" group=\"Article\">\n          \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->   \n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Media Size\" name=\"mediaSize\" min=\"10\" max=\"200\" step=\"5\" value=\"170\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"4\">\n        <input type=\"checkbox\" title=\"Text On Right/Left\" name=\"reverseContent\"> \n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"col-12\" mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\">\n                <div class=\"media-container-row\">\n                    <div class=\"media-content\">\n                        <div class=\"mbr-section-text\">\n                            <p class=\"mbr-text align-right mb-0 mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-text\">Every time a business demonstrates openness and honesty on one of the issues we explore, it expands our shared understanding of what POOR, OKAY, GOOD and EXCELLENT policies and practices are. Together we can help businesses improve their impacts on people and planet.&nbsp;&nbsp;</p>\n                        </div>\n                    </div>\n                    <div class=\"mbr-figure\" mbr-style=\"{'width': mediaSize + '%'}\">\n                     <img src=\"@PROJECT_PATH@/assets/images/your-story-in-the-library-842x393.jpg\" alt=\"Mobirise\">  \n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "content7-1ez",
           "_isUserblock": true,
-          "_cid": "tBHodO4nS8",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
-        },
-        {
-          "alias": false,
-          "_styles": {
-            "background": "@bgColor",
-            "& when (@fullWidth = false)": {
-              "padding-top": "(@paddingTop * 15px)",
-              "padding-bottom": "(@paddingBottom * 15px)"
-            },
-            "& when (@gradientBg)": {
-              "background": "linear-gradient(0deg, @color2, @bgColor)"
-            },
-            ".image-block": {
-              "margin": "auto",
-              "& when (@fullWidth)": {
-                "width": "100% !important"
-              }
-            },
-            "figcaption": {
-              "position": "relative",
-              "div": {
-                "position": "absolute",
-                "bottom": "0",
-                "width": "100%"
-              }
-            },
-            "@media (max-width: 768px)": {
-              ".image-block": {
-                "width": "100% !important"
-              }
-            }
-          },
-          "_name": "image3",
-          "_sourceTheme": "mobirise4",
-          "_customHTML": "<section group=\"Images & Videos\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"0\" step=\"1\" condition=\"fullWidth==false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"3\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\">        \n        \n        <input type=\"range\" inline title=\"Width\" name=\"imageSize\" min=\"20\" max=\"100\" value=\"68\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\" condition=\"fullWidth==false\">\n        <input type=\"checkbox\" title=\"Gradient\" name=\"gradientBg\" condition=\"fullWidth==false\">\n        <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#ffffff\" condition=\"gradientBg && fullWidth==false\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <figure class=\"mbr-figure\" mbr-class=\"{'container':fullWidth==false}\">\n            <div class=\"image-block\" mbr-style=\"{'width':imageSize+'%'}\">\n                <img src=\"@PROJECT_PATH@/assets/images/ngos-array-2-1512x896.png\" width=\"1400\" alt=\"Mobirise\" title>\n                <figcaption class=\"mbr-figure-caption mbr-figure-caption-over\" mbr-if=\"showText\">\n                    <div mbr-text class=\"container pb-5 mbr-white align-center mbr-fonts-style\" mbr-theme-style=\"display-1\">\n                        Create awesome websites!\n                    </div>\n                </figcaption>\n            </div>\n    </figure>\n</section>",
-          "_anchor": "image3-1cd",
-          "_isUserblock": true,
-          "_cid": "tBpei3N6Xx",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
-        },
-        {
-          "alias": false,
-          "_styles": {
-            "padding-top": "(@paddingTop * 15px)",
-            "padding-bottom": "(@paddingBottom * 15px)",
-            "background-color": "@bgColor",
-            ".mbr-text, blockquote": {
-              "color": "#767676"
-            },
-            ".mbr-text": {
-              "color": "#465052"
-            }
-          },
-          "_name": "content1",
-          "_sourceTheme": "mobirise4",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\">We are currently refreshing scores of old partnerships that we formed during the time of the first iteration of Responsible 100, which ran from 2012 to 2018. Invitations are being sent to those who joined one or more of the 57 roundtable workshops that we previously ran. Roundtable participation in the past is not a prerequisite to partnering with us now. It is genuine expertise, energy and passion which matters most.</div>\n        </div>\n    </div>\n</section>",
-          "_anchor": "content1-1cn",
-          "_isUserblock": true,
-          "_cid": "tBHqwQoBdr",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
-        },
-        {
-          "alias": false,
-          "_styles": {
-            "padding-top": "(@paddingTop * 15px)",
-            "padding-bottom": "(@paddingBottom * 15px)",
-            "background-color": "@bgColor"
-          },
-          "_name": "content8",
-          "_sourceTheme": "mobirise4",
-          "_customHTML": "<section class=\"mbr-section content8\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline=\"\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"range\" inline=\"\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"color\" title=\"Backgroud Color\" name=\"bgColor\" value=\"#e9effa\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row title\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"mbr-section-btn align-center\" mbr-buttons=\"\" mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-primary\" href=\"about.html\" data-app-placeholder=\"Type Text\"><span class=\"mbri-info mbr-iconfont mbr-iconfont-btn\"></span><span style=\"font-weight: bold;\">ABOUT US</span></a></div>\n            </div>\n        </div>\n    </div>\n</section>",
-          "_anchor": "content8-1ce",
-          "_isUserblock": true,
-          "_cid": "tBpeGFtrVb",
+          "_cid": "tXF3OxO9iW",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
